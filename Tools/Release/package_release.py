@@ -172,6 +172,8 @@ def tar_build(build: Path, destination: Path, templates: Path) -> dict:
     (build / "PDaB.x86_64").chmod(0o755)
     paths = []
     for path in sorted(build.rglob("*")):
+        if any(part.endswith("_BackUpThisFolder_ButDontShipItWithYourGame") for part in path.relative_to(build).parts):
+            continue
         if path.is_symlink():
             raise ValueError("Unexpected symlink in Linux build: " + str(path))
         if path.is_file():
