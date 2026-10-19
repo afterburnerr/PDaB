@@ -1,0 +1,6 @@
+{
+  "generator": "builtin image_gen.imagegen",
+  "asset": "Assets/Art/Environment/DoorPlaques/TarnishedBrass.png",
+  "source": "/home/afterburner/.codex/generated_images/01a15045-469a-7d12-9b9d-05e388aec621/exec-42ed8b7f-b736-4bb6-8893-8b08703899d9.png",
+  "prompt": "Use case: stylized-concept. Asset type: seamless game material ALBEDO texture for a tiny real apartment door number plaque in a worn Soviet residential entrance, classic Half-Life 2 2004 Source texture look. Primary request: flat edge-to-edge scan of old tarnished warm grey-bronze/brass sheet metal, very subdued desaturated brown-gold, fine random scratches and subtle cloudy oxidation/patina, a few worn brighter flecks. Flat neutral diffuse illumination, matte aged metal, no specular glare or baked shadows. All pixels show the metal surface, homogeneous small-scale detail, no lighting gradient or vignette. This is only raw metal material, NOT a photograph or rendered object. No plate outline, no frame, no screws, no numbers, letters, text, symbols, labels, logo or watermark. No large rusty holes, no theatrical orange copper, no polished gold, no decorative design. Square seamless repeatable surface suitable for UV mapping onto a rounded 13.5cm wide plaque and its bevel; tactile restrained subtle wear, enough fine detail for close first-person flashlight inspection."
+}

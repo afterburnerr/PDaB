@@ -1,0 +1,58 @@
+[
+  {
+    "asset": "Assets/Audio/Horror/Stalker/Static01.wav",
+    "source": "Original deterministic procedural DSP; no HL2 samples",
+    "generator": "Tools/Art/GenerateStalkerStatic.py",
+    "seed": 19031987,
+    "sampleRate": 22050,
+    "channels": 1,
+    "sampleBits": 16,
+    "durationSeconds": 0.18,
+    "peak": 0.42,
+    "envelope": "18ms smooth attack, 60ms smooth release",
+    "synthesis": "Band-limited filtered random noise with irregular amplitude modulation; approximately 450\u20134500Hz",
+    "sha256": "4c3b1c2a93c6d53089ddb6949d08171c572e35104226e6dab32e51f6f530206c"
+  },
+  {
+    "asset": "Assets/Audio/Horror/Stalker/Static02.wav",
+    "source": "Original deterministic procedural DSP; no HL2 samples",
+    "generator": "Tools/Art/GenerateStalkerStatic.py",
+    "seed": 19031988,
+    "sampleRate": 22050,
+    "channels": 1,
+    "sampleBits": 16,
+    "durationSeconds": 0.28,
+    "peak": 0.42,
+    "envelope": "18ms smooth attack, 60ms smooth release",
+    "synthesis": "Band-limited filtered random noise with irregular amplitude modulation; approximately 450\u20134500Hz",
+    "sha256": "0947527cf26e76d32868ceaf9e2c9528fa3db1c234db054e15ec537d7e18197a"
+  },
+  {
+    "asset": "Assets/Audio/Horror/Stalker/Static03.wav",
+    "source": "Original deterministic procedural DSP; no HL2 samples",
+    "generator": "Tools/Art/GenerateStalkerStatic.py",
+    "seed": 19031989,
+    "sampleRate": 22050,
+    "channels": 1,
+    "sampleBits": 16,
+    "durationSeconds": 0.38,
+    "peak": 0.42,
+    "envelope": "18ms smooth attack, 60ms smooth release",
+    "synthesis": "Band-limited filtered random noise with irregular amplitude modulation; approximately 450\u20134500Hz",
+    "sha256": "4b6913fa0aa88f71b6d5547276c40f41c62205dd1aeb9f668b74d583a1987cd8"
+  },
+  {
+    "asset": "Assets/Audio/Horror/Stalker/Static04.wav",
+    "source": "Original deterministic procedural DSP; no HL2 samples",
+    "generator": "Tools/Art/GenerateStalkerStatic.py",
+    "seed": 19031990,
+    "sampleRate": 22050,
+    "channels": 1,
+    "sampleBits": 16,
+    "durationSeconds": 0.48,
+    "peak": 0.42,
+    "envelope": "18ms smooth attack, 60ms smooth release",
+    "synthesis": "Band-limited filtered random noise with irregular amplitude modulation; approximately 450\u20134500Hz",
+    "sha256": "460442dedb38bf4580785d111322551b6fe02504e37089fcc90cbf6c40a2ae70"
+  }
+]

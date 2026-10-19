@@ -1,0 +1,4 @@
+Mode: built-in imagegen; precise-object-edit.
+Source: /tmp/codex-clipboard-5jzkWj.png
+Output: Assets/Art/UI/Entrance/MenuBackgroundGameplayClean.png
+Prompt: Remove only yellow AUX POWER label and stamina bars at bottom left, TIME and 00:46 at bottom right, and thin grey editor border. Fill with matching near-black scene. Preserve original game camera, ceiling lamp, halo, dark corridor, tiled walls, floor and litter. Do not brighten, relight or reinterpret. No text, HUD or new objects.

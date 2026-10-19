@@ -1,0 +1,62 @@
+[
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_textures_dir.vpk",
+    "sourceEntry": "materials/plaster/plasterwall034c.vtf",
+    "reference": "Tools/Art/References/HL2/plaster_plasterwall034c.png",
+    "width": 512,
+    "height": 512,
+    "crc32": "39d6ddd4",
+    "sourceSha256": "1900498c86f3b491feac757a686bbdfbddfbb5b2c7ac25f76fde004fda2dfa00",
+    "referenceSha256": "febde22e78cb35d93fee28457b6aa81084a71e584ec6da65913f77b5b05f1b5c",
+    "purpose": "Imagegen visual reference only; not a production game asset",
+    "conversion": "Original diffuse top mip decoded to RGB PNG without lighting or color edits"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_textures_dir.vpk",
+    "sourceEntry": "materials/plaster/plasterwall034a.vtf",
+    "reference": "Tools/Art/References/HL2/plaster_plasterwall034a.png",
+    "width": 512,
+    "height": 512,
+    "crc32": "3f85826f",
+    "sourceSha256": "fac7f74a9fc5a5016246648bd41c2291b53762ef95070966a9af5614596c03ed",
+    "referenceSha256": "8fe35f51ec9fde6ea0e4f35d76932cc96c856cd73acb9e64c522a6de543f5442",
+    "purpose": "Imagegen visual reference only; not a production game asset",
+    "conversion": "Original diffuse top mip decoded to RGB PNG without lighting or color edits"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_textures_dir.vpk",
+    "sourceEntry": "materials/concrete/concretefloor013a.vtf",
+    "reference": "Tools/Art/References/HL2/concrete_concretefloor013a.png",
+    "width": 512,
+    "height": 512,
+    "crc32": "7ce1f819",
+    "sourceSha256": "986b68ccf54776a318ae90cbd86f1b4bd458313a26a79bedf3fc6b01a3dbab4c",
+    "referenceSha256": "63e1cf709a3f873d161eb851257a7220d3e25a6a48e039fc7f990ce22e22fcd6",
+    "purpose": "Imagegen visual reference only; not a production game asset",
+    "conversion": "Original diffuse top mip decoded to RGB PNG without lighting or color edits"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_textures_dir.vpk",
+    "sourceEntry": "materials/tile/tilefloor012a.vtf",
+    "reference": "Tools/Art/References/HL2/tile_tilefloor012a.png",
+    "width": 512,
+    "height": 512,
+    "crc32": "9e860dd3",
+    "sourceSha256": "4e63ffc1fc146c45065e8a0b22c1f4b982055bd047b7e3eb3734e3907abedc27",
+    "referenceSha256": "9b4b26e2c8e51386e7953d6eb16a0ed534997aa60bddc6e64ba87961ec54c9e6",
+    "purpose": "Imagegen visual reference only; not a production game asset",
+    "conversion": "Original diffuse top mip decoded to RGB PNG without lighting or color edits"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_textures_dir.vpk",
+    "sourceEntry": "materials/metal/metaldoor005a.vtf",
+    "reference": "Tools/Art/References/HL2/metal_metaldoor005a.png",
+    "width": 512,
+    "height": 512,
+    "crc32": "0fb4a82f",
+    "sourceSha256": "a8e6ca0bb81d6c06576b37717e5c889a90aa37b5246c06e20b16d03d49dd535c",
+    "referenceSha256": "ece8f089b276eb43a32c529f218b388f50615965064bb02d8ab04611fb962344",
+    "purpose": "Imagegen visual reference only; not a production game asset",
+    "conversion": "Original diffuse top mip decoded to RGB PNG without lighting or color edits"
+  }
+]

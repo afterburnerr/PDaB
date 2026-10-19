@@ -1,0 +1,31 @@
+{
+  "units": "metres",
+  "diameter": 0.414,
+  "depth": 0.183,
+  "origin": "ceiling centre",
+  "meshes": {
+    "LampMetal": {
+      "vertices": 722,
+      "triangles": 1440,
+      "materials": [
+        "EntranceLamp_Metal"
+      ]
+    },
+    "LampGlass": {
+      "vertices": 1025,
+      "triangles": 1920,
+      "materials": [
+        "EntranceLamp_Glass"
+      ]
+    },
+    "LampFasteners": {
+      "vertices": 716,
+      "triangles": 1280,
+      "materials": [
+        "EntranceLamp_Fasteners"
+      ]
+    },
+    "total_triangles": 4640
+  },
+  "textures": "Original deterministic diffuse, no baked illumination"
+}

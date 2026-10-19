@@ -1,0 +1,3 @@
+Built-in imagegen, original full-screen 16:9 illustration inspired by user reference /tmp/codex-clipboard-pOBhZ8.png.
+Prompt: Original drawn horror jumpscare for PDaB. Extreme frontal closeup pale bald elongated gaunt face, staring human eyes in hollow wrinkled sockets, crooked broad grin with jagged dirty human teeth. Harsh black-and-white charcoal, crosshatched pen-and-ink and scratchboard, distressed hand-drawn creepypasta horror. Face fills 85 percent, slightly right, cropped skull and cheeks, black edges with leftmost15 percent dark. No photographic/3D/toy style, text, UI, watermarks, colored glitches or gore. A still drawing, no camera animation.
+Final asset: Assets/Art/UI/Horror/StalkerScreamer.png

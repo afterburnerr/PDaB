@@ -1,0 +1,128 @@
+{
+  "status": "failed",
+  "finished": true,
+  "phase": 6,
+  "elapsed": 38.245519361000333,
+  "error": "System.InvalidOperationException: Enemy retreats at least eight graph cells\n  at UnityStalkerSmoke.Require (System.Boolean pass, System.String label, System.Object evidence) [0x00033] in /home/afterburner/Projects/unity/FPLab/Tools/Tests/Stalker/UnityStalkerSmoke.cs:304 \n  at UnityStalkerSmoke.Tick () [0x005c9] in /home/afterburner/Projects/unity/FPLab/Tools/Tests/Stalker/UnityStalkerSmoke.cs:150 ",
+  "checks": [
+    {
+      "check": "Runtime references present",
+      "pass": true,
+      "evidence": null,
+      "phase": 0,
+      "elapsed": 27187.127635467998
+    },
+    {
+      "check": "Ready menu plays Citadel ambience",
+      "pass": true,
+      "evidence": null,
+      "phase": 0,
+      "elapsed": 0.51443763999850489
+    },
+    {
+      "check": "32 registered ceiling light safe zones",
+      "pass": true,
+      "evidence": 32,
+      "phase": 2,
+      "elapsed": 4.225783883000986
+    },
+    {
+      "check": "Start is protected by a real ceiling lamp",
+      "pass": true,
+      "evidence": null,
+      "phase": 2,
+      "elapsed": 4.2289809200010495
+    },
+    {
+      "check": "Exit is reachable",
+      "pass": true,
+      "evidence": null,
+      "phase": 2,
+      "elapsed": 4.2299002740001015
+    },
+    {
+      "check": "Found dark route cell after sufficient fair-spawn progress",
+      "pass": true,
+      "evidence": 236,
+      "phase": 2,
+      "elapsed": 4.2311796440008038
+    },
+    {
+      "check": "Fair spawn retains graph distance",
+      "pass": true,
+      "evidence": 12,
+      "phase": 3,
+      "elapsed": 22.227147673998843
+    },
+    {
+      "check": "Enemy visual is active",
+      "pass": true,
+      "evidence": null,
+      "phase": 3,
+      "elapsed": 22.227195072999166
+    },
+    {
+      "check": "Enemy Animator/controller present",
+      "pass": true,
+      "evidence": null,
+      "phase": 3,
+      "elapsed": 22.22726472299837
+    },
+    {
+      "check": "Animator has an active clip",
+      "pass": true,
+      "evidence": null,
+      "phase": 3,
+      "elapsed": 22.227432006999152
+    },
+    {
+      "check": "Enemy actually advances over two seconds",
+      "pass": true,
+      "evidence": null,
+      "phase": 4,
+      "elapsed": 24.227698271999543
+    },
+    {
+      "check": "Threat starts positional murmurs during approach",
+      "pass": true,
+      "evidence": null,
+      "phase": 4,
+      "elapsed": 24.227700005998486
+    },
+    {
+      "check": "Player survives under lamp",
+      "pass": true,
+      "evidence": null,
+      "phase": 5,
+      "elapsed": 26.235244914001669
+    },
+    {
+      "check": "Lamp triggers retreat rather than camping",
+      "pass": true,
+      "evidence": 2,
+      "phase": 5,
+      "elapsed": 26.235254101000464
+    },
+    {
+      "check": "Protected player survives sustained lamp hold",
+      "pass": true,
+      "evidence": null,
+      "phase": 6,
+      "elapsed": 38.239717338001356
+    },
+    {
+      "check": "Enemy retreats at least eight graph cells",
+      "pass": false,
+      "evidence": 2,
+      "phase": 6,
+      "elapsed": 38.239726746000088
+    }
+  ],
+  "session": "Playing",
+  "screenshots": [
+    "Menu.png",
+    "StalkerCaught.png",
+    "Defeat.png",
+    "Victory.png"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/player/suit_sprint.wav",
+    "asset": "Assets/Audio/HalfLife2/Sprint/suit_sprint.wav",
+    "bytes": 22640,
+    "durationSeconds": 0.510249433106576,
+    "sampleRate": 22050,
+    "channels": 1,
+    "sampleBits": 16,
+    "soundScript": "hl2/scripts/game_sounds_player.txt",
+    "soundEvent": "HL2Player.SprintStart",
+    "scriptVolume": 0.9,
+    "crc32": "da79eeee",
+    "sha256": "3efc9cdac36d4a8acf032ed342aba07aabbe806a7f1c76a2ae7aa21c2484152e"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/player/suit_denydevice.wav",
+    "asset": "Assets/Audio/HalfLife2/Sprint/suit_denydevice.wav",
+    "bytes": 3826,
+    "durationSeconds": 0.16780045351473924,
+    "sampleRate": 22050,
+    "channels": 1,
+    "sampleBits": 8,
+    "soundScript": "hl2/scripts/game_sounds_player.txt",
+    "soundEvent": "HL2Player.SprintNoPower",
+    "scriptVolume": 0.8,
+    "crc32": "b775ba91",
+    "sha256": "d41f0b11e60e4debe1656573f2057bc1dc710af689bff70777672939b261dfb1"
+  }
+]

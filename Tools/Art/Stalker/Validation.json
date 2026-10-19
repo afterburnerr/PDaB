@@ -1,0 +1,121 @@
+{
+  "vertices": 6752,
+  "triangles": 12592,
+  "bones": 20,
+  "rest_bounds_blender_min": [
+    -0.4826395809650421,
+    -0.4207899868488312,
+    0.01400010846555233
+  ],
+  "rest_bounds_blender_max": [
+    0.4829551577568054,
+    0.1770000010728836,
+    1.9799996614456177
+  ],
+  "weight_min": 1.0,
+  "weight_max": 1.0000000298023224,
+  "unweighted": 0,
+  "max_influences": 2,
+  "front_blender": "-Y",
+  "front_unity": "+Z",
+  "unit_scale": 1,
+  "clips": [
+    {
+      "name": "Idle",
+      "action": "Stalker_Idle",
+      "frames": [
+        1.0,
+        90.0
+      ],
+      "duration_seconds": 2.966666666666667,
+      "min": [
+        -0.48263970017433167,
+        -0.42529866099357605,
+        0.014000109396874905
+      ],
+      "max": [
+        0.48295527696609497,
+        0.1770000159740448,
+        1.9836442470550537
+      ]
+    },
+    {
+      "name": "Walk",
+      "action": "Stalker_Walk",
+      "frames": [
+        1.0,
+        36.0
+      ],
+      "duration_seconds": 1.1666666666666667,
+      "min": [
+        -0.5128470659255981,
+        -0.7700016498565674,
+        -0.0030665993690490723
+      ],
+      "max": [
+        0.5131213665008545,
+        0.45764458179473877,
+        1.9846237897872925
+      ]
+    },
+    {
+      "name": "Run",
+      "action": "Stalker_Run",
+      "frames": [
+        1.0,
+        24.0
+      ],
+      "duration_seconds": 0.7666666666666667,
+      "min": [
+        -0.5180067420005798,
+        -0.9398719072341919,
+        -0.0004670843482017517
+      ],
+      "max": [
+        0.5183126330375671,
+        0.6706368327140808,
+        1.9627387523651123
+      ]
+    },
+    {
+      "name": "Recoil",
+      "action": "Stalker_Recoil",
+      "frames": [
+        1.0,
+        30.0
+      ],
+      "duration_seconds": 0.9666666666666667,
+      "min": [
+        -0.4826396703720093,
+        -0.8283168077468872,
+        0.014000109396874905
+      ],
+      "max": [
+        0.4829552471637726,
+        0.2806525230407715,
+        2.0197458267211914
+      ]
+    },
+    {
+      "name": "Attack",
+      "action": "Stalker_Attack",
+      "frames": [
+        1.0,
+        36.0
+      ],
+      "duration_seconds": 1.1666666666666667,
+      "min": [
+        -0.5359141230583191,
+        -1.078321933746338,
+        -0.020935961976647377
+      ],
+      "max": [
+        0.5363327264785767,
+        0.17809176445007324,
+        1.9801578521728516
+      ]
+    }
+  ],
+  "texture": "Assets/Characters/Stalker/Textures/StalkerDiffuse.png",
+  "texture_authorship": "Original imagegen painted face integrated with procedural mottled skin, ivory teeth and dark cloth; no emissive channels."
+}

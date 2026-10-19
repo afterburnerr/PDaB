@@ -1,0 +1,16 @@
+{
+  "sourceInstallation": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2",
+  "sourceFont": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/platform/resource/linux_fonts/dejavusans.ttf",
+  "asset": "Assets/Art/UI/Entrance/Fonts/HL2-DejaVuSans.ttf",
+  "sha256": "2fb91d8d18b8312659070e66001a863b82fb6758a21e37df2c94f1cae83683ed",
+  "fontFamily": "DejaVu Sans",
+  "fontSubfamily": "Book",
+  "requiredGlyphCoverageVerified": true,
+  "schemeSources": [
+    "hl2/resource/sourcescheme.res",
+    "platform/resource/sourceschemebase.res"
+  ],
+  "schemeEvidence": "HL2 SourceScheme inherits SourceSchemeBase. MenuLarge requests Verdana, weight600, tall24 on Linux. CustomFontFiles registers resource/linux_fonts/DejaVuSans.ttf. No Verdana font is bundled; this asset uses the actual bundled Linux face, not a renamed Windows Verdana.",
+  "rejectedFont": "hl2/resource/halflife2.ttf maps P,D,a to HUD icons; using it would not render PDaB literally.",
+  "modification": "Original font copied unchanged. No glyph edits or font renaming."
+}

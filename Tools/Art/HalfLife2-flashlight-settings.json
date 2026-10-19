@@ -1,0 +1,32 @@
+{
+  "reference": "https://github.com/ValveSoftware/source-sdk-2013/blob/be57e3d01ac7d7aa6a2cacbfef187c0b46616db0/src/game/client/flashlighteffect.cpp",
+  "powerReference": "https://github.com/ValveSoftware/source-sdk-2013/blob/be57e3d01ac7d7aa6a2cacbfef187c0b46616db0/src/game/server/hl2/hl2_player.cpp",
+  "mode": "Classic HL2 shared AUX POWER",
+  "input": "Player/Flashlight: <Keyboard>/f",
+  "startsOn": false,
+  "power": {
+    "flashlightUnitsPerSecond": 2.222222,
+    "cutoffNormalized": 0.048,
+    "canEnableAboveNormalized": 0.048,
+    "recharge": "Existing player resource regeneration settings; only when sprint and flashlight are off",
+    "sprintBalance": "Existing scene sprint consumption preserved"
+  },
+  "light": {
+    "cookie": "Assets/Art/UI/HalfLife2/Flashlight/flashlight_border.png",
+    "sourceUnitsToUnity": 0.0254,
+    "outerAngleDegrees": 45,
+    "innerAngleDegrees": 44,
+    "rangeMeters": 19.05,
+    "color": [1, 1, 1],
+    "unityIntensity": 12,
+    "shadowNearPlane": 0.1,
+    "origin": "Source camera-up offset and fixed far target, with collision-limited near-wall pullback",
+    "mappingLimit": "URP intensity, inverse-square attenuation and near clipping differ from Source; numerical intensity is a project tuning value"
+  },
+  "hud": {
+    "resource": "Shared AUX POWER segments",
+    "deviceCaption": "FLASHLIGHT",
+    "simultaneousSprintCaption": "SPRINT",
+    "lowPowerThreshold": 0.25
+  }
+}

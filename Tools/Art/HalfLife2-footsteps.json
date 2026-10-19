@@ -1,0 +1,50 @@
+[
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/player/footsteps/concrete1.wav",
+    "asset": "Assets/Audio/HalfLife2/Footsteps/concrete1.wav",
+    "bytes": 42986,
+    "durationSeconds": 0.4858956916099773,
+    "sampleRate": 44100,
+    "channels": 1,
+    "sampleBits": 16,
+    "foot": "left",
+    "sha256": "7b21e9145631016e2b888f565c5ea95e31f82b8dd8a767dde27092584655d1a7"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/player/footsteps/concrete2.wav",
+    "asset": "Assets/Audio/HalfLife2/Footsteps/concrete2.wav",
+    "bytes": 55082,
+    "durationSeconds": 0.6230385487528345,
+    "sampleRate": 44100,
+    "channels": 1,
+    "sampleBits": 16,
+    "foot": "right",
+    "sha256": "6d7637979a8b7dc6eb25c13c3668a051fda3bcd44b54790e232295f8113af9cd"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/player/footsteps/concrete3.wav",
+    "asset": "Assets/Audio/HalfLife2/Footsteps/concrete3.wav",
+    "bytes": 63552,
+    "durationSeconds": 0.7190702947845805,
+    "sampleRate": 44100,
+    "channels": 1,
+    "sampleBits": 16,
+    "foot": "left",
+    "sha256": "a081d5d4b709e51a43f309372cedf4010b875a4c9f3dd7bc31a1b3b73712b536"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/player/footsteps/concrete4.wav",
+    "asset": "Assets/Audio/HalfLife2/Footsteps/concrete4.wav",
+    "bytes": 39254,
+    "durationSeconds": 0.4435827664399093,
+    "sampleRate": 44100,
+    "channels": 1,
+    "sampleBits": 16,
+    "foot": "right",
+    "sha256": "6156652ca7ffd696fded9662a19deaf8a4561b01902b4a2ceb187368169664ca"
+  }
+]

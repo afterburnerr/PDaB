@@ -1,0 +1,23 @@
+[
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/ui/buttonrollover.wav",
+    "asset": "Assets/Audio/HalfLife2/UI/buttonrollover.wav",
+    "bytes": 32280,
+    "sha256": "7bb8cdb2b3bbca6b649ac08305ed0b76209125e553d31af083cce66ec964145b"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/ui/buttonclick.wav",
+    "asset": "Assets/Audio/HalfLife2/UI/buttonclick.wav",
+    "bytes": 12112,
+    "sha256": "ac1d5512c548feffe3597a5c8276104faf9fcb8cb89e516f7bfbdb03407f1ead"
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/ui/buttonclickrelease.wav",
+    "asset": "Assets/Audio/HalfLife2/UI/buttonclickrelease.wav",
+    "bytes": 12988,
+    "sha256": "e1f66b0a41b00a5575f6379b1e9651a158da0408c8e2890f8d41f0a5470e73cd"
+  }
+]

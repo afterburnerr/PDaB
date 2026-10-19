@@ -1,0 +1,49 @@
+{
+  "title": "Citadel Pod Ride Ambience",
+  "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+  "sourceEntry": "sound/ambient/levels/citadel/citadel_drone_loop6.wav",
+  "asset": "Assets/Audio/HalfLife2/Ambience/CitadelPodRideAmbience.wav",
+  "bytes": 558176,
+  "crc32": "3fcb3085",
+  "sha256": "15c97c506a608151190ba31c94ad07c1133c0db1361b938de7c355321955b59f",
+  "durationSeconds": 6.327256235827664,
+  "sampleFrames": 139516,
+  "sampleRate": 22050,
+  "channels": 2,
+  "sampleBits": 16,
+  "sourceLoopMarkers": [
+    {
+      "type": 0,
+      "startSample": 0,
+      "endSampleInclusive": 139515,
+      "playCount": 0
+    }
+  ],
+  "conversion": "None; original stereo PCM WAV bytes and smpl loop markers preserved",
+  "identification": {
+    "referenceTitle": "Half Life 2 Citadel Pod Ride Ambience",
+    "referenceUrl": "https://www.youtube.com/watch?v=NXuyrj_ghkc",
+    "referenceDurationSeconds": 600,
+    "method": "Normalized PCM cross-correlation against installed Citadel sounds; 22050 Hz channel-separated comparison over reference first 60 seconds",
+    "correlationLeft": 0.4941,
+    "correlationRight": 0.5934,
+    "alignedLoopStartsSecondsLeft": [
+      2.53048,
+      8.85773,
+      15.1849,
+      21.5122,
+      27.83941,
+      34.16671,
+      40.49397
+    ],
+    "finding": "Reference contains this exact full-length repeating drone; peaks repeat at the original 6.327256-second duration. Reference may contain game DSP or other ambience; import uses original source only.",
+    "confidence": "High for identification of the repeating drone"
+  },
+  "soundscapeScript": "hl2/scripts/soundscapes_citadel.txt",
+  "soundscapes": [
+    "d3_citadel.generic",
+    "d3_citadel.generic_moody2"
+  ],
+  "playback": "2D loop in main menu and pause menu",
+  "volume": 0.3
+}

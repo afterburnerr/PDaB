@@ -1,0 +1,50 @@
+{
+  "tool": "builtin image_gen.imagegen",
+  "date": "2026-10-19",
+  "purpose": "Hand-painted diffuse source textures for GoldSrc/Half-Life 1 style Soviet civilian worker, packed by Blender mesh/UV asset build.",
+  "transparent_background": false,
+  "images": [
+    {
+      "name": "face",
+      "path": "Assets/Characters/SovietWorker/Textures/Source/face.png",
+      "rawSource": "/home/afterburner/.codex/generated_images/01a151a1-fd9a-7271-84b0-4ef8a0cf4203/exec-3f95f3f2-9d59-4d3f-8a49-060f7172d117.png",
+      "prompt": "Use case: stylized-concept. Asset type: diffuse albedo texture for a low polygon Soviet civilian worker player character, 1998 GoldSrc / Half-Life 1 PC game aesthetic. Hand painted game texture, low resolution painted details, muted natural colors, flat even illumination, no physical lighting, no specular highlights, no shadows, no text, no logos, no border, no watermark. Square texture sheet, fill the whole image. A SINGLE frontal face texture to project onto a 3D man's head, NOT a photograph and NOT a rendered head. Ordinary Soviet factory worker man aged 45, tired angular face, neutral closed mouth, thin lips, slight eye bags, rough shaven dark short stubble, grey blue eyes, straight medium nose, short cropped brown grey hair and slightly receding hairline. Full front head centered facing directly forward without tilt, ears at sides. Forehead starts at y 15%, eyes y 42%, nose y 58%, mouth y 70%, chin y 85%. Skin tone muted warm tan, restrained brown grey shading deliberately painted into a flat vintage texture. Outer background same average skin tone. Readable facial features and old PC game diffuse paint, NOT cartoon, NOT a zombie, NOT uncanny photorealistic portrait, NOT a modern PBR material. No neck clothes and no perspective."
+    },
+    {
+      "name": "jacket",
+      "path": "Assets/Characters/SovietWorker/Textures/Source/jacket.png",
+      "rawSource": "/home/afterburner/.codex/generated_images/01a151a1-fd9a-7271-84b0-4ef8a0cf4203/exec-c3c7d3fb-bbdf-4583-9123-8240521ac421.png",
+      "prompt": "Use case: stylized-concept. Asset type: diffuse albedo texture for a low polygon Soviet civilian worker player character, 1998 GoldSrc / Half-Life 1 PC game aesthetic. Hand painted game texture, low resolution painted details, muted natural colors, flat even illumination, no physical lighting, no specular highlights, no shadows, no text, no logos, no border, no watermark. Square texture sheet, fill the whole image. Seamless tile of faded slate blue grey green Soviet cotton work jacket fabric, subtly worn dense cotton weave, lightly dusty and slightly faded mottling, no strong stains. Flat fabric surface only: NO seams, NO pockets, NO buttons, NO garment silhouette or folds casting shadows; those are modeled separately. Broad calm midtone slate grey blue, minimal color variation, game readable subtle grain."
+    },
+    {
+      "name": "trousers",
+      "path": "Assets/Characters/SovietWorker/Textures/Source/trousers.png",
+      "rawSource": "/home/afterburner/.codex/generated_images/01a151a1-fd9a-7271-84b0-4ef8a0cf4203/exec-fed22f5c-2fcb-4b44-95fe-d7fa30e77ca1.png",
+      "prompt": "Use case: stylized-concept. Asset type: diffuse albedo texture for a low polygon Soviet civilian worker player character, 1998 GoldSrc / Half-Life 1 PC game aesthetic. Hand painted game texture, low resolution painted details, muted natural colors, flat even illumination, no physical lighting, no specular highlights, no shadows, no text, no logos, no border, no watermark. Square texture sheet, fill the whole image. Seamless tile of charcoal grey Soviet worker trouser cotton twill, subtle grey brown oil ingrained dirt and a few softly faded worn areas, dense woven cotton, restrained grain. NO seams, pockets, buttons, garment silhouette or strong folds; flat textile surface only. Dark charcoal grey without big black blotches, old painted game cloth."
+    },
+    {
+      "name": "skin",
+      "path": "Assets/Characters/SovietWorker/Textures/Source/skin.png",
+      "rawSource": "/home/afterburner/.codex/generated_images/01a151a1-fd9a-7271-84b0-4ef8a0cf4203/exec-5aca9576-26ec-4fe0-abfb-c02026d5bee4.png",
+      "prompt": "Use case: stylized-concept. Asset type: diffuse albedo texture for a low polygon Soviet civilian worker player character, 1998 GoldSrc / Half-Life 1 PC game aesthetic. Hand painted game texture, low resolution painted details, muted natural colors, flat even illumination, no physical lighting, no specular highlights, no shadows, no text, no logos, no border, no watermark. Square texture sheet, fill the whole image. Seamless tile of warm muted tan skin of a middle aged Caucasian worker, flat skin surface with extremely subtle painted pores and slight reddish / brown color variation, no facial features and no eyes or lips, no body parts, no wrinkles in long lines. Not photographic macro skin, instead simple broad painted diffuse color and restrained fine grain."
+    },
+    {
+      "name": "hair",
+      "path": "Assets/Characters/SovietWorker/Textures/Source/hair.png",
+      "rawSource": "/home/afterburner/.codex/generated_images/01a151a1-fd9a-7271-84b0-4ef8a0cf4203/exec-54b54d90-21f4-4f4d-889d-0020f27d2deb.png",
+      "prompt": "Use case: stylized-concept. Asset type: diffuse albedo texture for a low polygon Soviet civilian worker player character, 1998 GoldSrc / Half-Life 1 PC game aesthetic. Hand painted game texture, low resolution painted details, muted natural colors, flat even illumination, no physical lighting, no specular highlights, no shadows, no text, no logos, no border, no watermark. Square texture sheet, fill the whole image. Seamless tile of very short cropped brown grey male hair, tiny close buzz cut grain, dark brown charcoal with sparse soft grey strands, flat diffuse old PC game painted texture. No long locks, no hair waves, no whole head or face, no white streaks, no strong lighting."
+    },
+    {
+      "name": "boots",
+      "path": "Assets/Characters/SovietWorker/Textures/Source/boots.png",
+      "rawSource": "/home/afterburner/.codex/generated_images/01a151a1-fd9a-7271-84b0-4ef8a0cf4203/exec-162b780e-e102-47ac-8eb7-aae6a546092c.png",
+      "prompt": "Use case: stylized-concept. Asset type: diffuse albedo texture for a low polygon Soviet civilian worker player character, 1998 GoldSrc / Half-Life 1 PC game aesthetic. Hand painted game texture, low resolution painted details, muted natural colors, flat even illumination, no physical lighting, no specular highlights, no shadows, no text, no logos, no border, no watermark. Square texture sheet, fill the whole image. Seamless tile of old black brown leather Soviet work boots, softly scuffed dark leather and slight broad fine creases, modest dusty grey abrasion, matte diffuse old game painting. No boot shape, laces, seams or soles; flat material only. Mostly dark brown black with restrained wear, no large orange scratches."
+    },
+    {
+      "name": "shirt",
+      "path": "Assets/Characters/SovietWorker/Textures/Source/shirt.png",
+      "rawSource": "/home/afterburner/.codex/generated_images/01a151a1-fd9a-7271-84b0-4ef8a0cf4203/exec-d5849073-fcc3-4223-9db0-c7fdde1a2cd4.png",
+      "prompt": "Use case: stylized-concept. Asset type: diffuse albedo texture for a low polygon Soviet civilian worker player character, 1998 GoldSrc / Half-Life 1 PC game aesthetic. Hand painted game texture, low resolution painted details, muted natural colors, flat even illumination, no physical lighting, no specular highlights, no shadows, no text, no logos, no border, no watermark. Square texture sheet, fill the whole image. Seamless tile of aged off white Soviet undershirt cotton, very subtle grey beige grime and fine cotton weave, flat light cream material, no seams or buttons, no garment silhouette or strong folds, no symbols. Old hand painted PC game diffuse texture, restrained subtle grain."
+    }
+  ]
+}

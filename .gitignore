@@ -1,0 +1,55 @@
+# Unity generated state and builds
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Bb]ackups/
+/Artifacts/
+/MemoryCaptures/
+/Recordings/
+/*.csproj
+/*.sln
+/*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Local tooling, credentials and caches
+.git/
+.idea/
+.vscode/
+.omx/
+.codex/
+.cache/
+.qa/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.session
+*.sqlite
+*.sqlite3
+*.log
+
+# Editable .blend source is retained; Blender recovery copies are not
+*.blend[0-9]*
+*.blend@
+
+# Unused audio research downloads (the actual game clips live in Assets)
+/Tools/Art/PodRideResearch/
+
+# Release archives are written alongside the project, never committed
+/PDaB-*.zip
+/PDaB-*.tar.gz

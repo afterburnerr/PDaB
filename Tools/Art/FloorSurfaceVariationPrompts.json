@@ -1,0 +1,32 @@
+{
+  "generator": "builtin image_gen.imagegen",
+  "use_case": "stylized-concept",
+  "created": "2026-10-19",
+  "description": "Three subtle original mineral floor albedo variants, reference image used only for coherent style and grain scale.",
+  "assets": [
+    {
+      "file": "FloorFineWorn.png",
+      "prompt": "Use case: stylized-concept. Asset type: opaque square seamless tiled game floor albedo for a Soviet residential entrance in a classic Half-Life 2 / Source 2004 aesthetic. Input image 1 is REFERENCE ONLY for material family, aggregate scale, muted greige colors and brightness; create a genuinely NEW distribution of grains, NOT a filter or recolor. Orthographic straight-down edge-to-edge material swatch, equal detail over whole square, physically unlit diffuse color with no illumination baked in. Seamless on all four edges. Same subtly granular gray-beige terrazzo/concrete with small cream, charcoal and subdued brown mineral chips; preserve the tiny aggregate scale and visually cohesive appearance of the reference. Very modest variation, within 5-10 percent of reference overall color and contrast. Variant: slightly FINER aggregate and subtly smoother tread-worn binder, still matte old residential terrazzo. Keep mineral chips small and irregular, fine quiet surface wear. No large cracks, stains, objects, trash, blood, footprints, lettering, grout, grids, panel divisions or tile edges. No perspective, lights, shadows, specular highlights, vignette or transparency. Generate one square opaque texture.",
+      "source": "/home/afterburner/.codex/generated_images/01a15173-8ff8-7f41-bcd1-16ca7fb4e9e9/exec-8c634da1-f8b2-467e-ac4a-fcd37c10e637.png",
+      "reference": "Assets/Art/Environment/ResidentialV2/Floor_Albedo.png",
+      "destination": "Assets/Art/Environment/FloorSurfaces/FloorFineWorn.png",
+      "transparent_background": false
+    },
+    {
+      "file": "FloorWarmDust.png",
+      "prompt": "Use case: stylized-concept. Asset type: opaque square seamless tiled game floor albedo for a Soviet residential entrance in a classic Half-Life 2 / Source 2004 aesthetic. Input image 1 is REFERENCE ONLY for material family, aggregate scale, muted greige colors and brightness; create a genuinely NEW distribution of grains, NOT a filter or recolor. Orthographic straight-down edge-to-edge material swatch, equal detail over whole square, physically unlit diffuse color with no illumination baked in. Seamless on all four edges. Same subtly granular gray-beige terrazzo/concrete with small cream, charcoal and subdued brown mineral chips; preserve the tiny aggregate scale and visually cohesive appearance of the reference. Very modest variation, within 5-10 percent of reference overall color and contrast. Variant: barely WARMER and DUSTIER greige gray-beige old terrazzo, only a subtle embedded powder haze between the tiny mineral chips; not loose dirt. New irregular grain pattern. The warm shift must be very restrained, same brightness and muted palette as reference. No large cracks, stains, objects, trash, blood, footprints, lettering, grout, grids, panel divisions or tile edges. No perspective, lights, shadows, specular highlights, vignette or transparency. Generate one square opaque texture.",
+      "source": "/home/afterburner/.codex/generated_images/01a15173-8ff8-7f41-bcd1-16ca7fb4e9e9/exec-1442c526-dbe4-4afd-83a2-e140d0e73e02.png",
+      "reference": "Assets/Art/Environment/ResidentialV2/Floor_Albedo.png",
+      "destination": "Assets/Art/Environment/FloorSurfaces/FloorWarmDust.png",
+      "transparent_background": false
+    },
+    {
+      "file": "FloorCoolAged.png",
+      "prompt": "Use case: stylized-concept. Asset type: opaque square seamless tiled game floor albedo for a Soviet residential entrance in a classic Half-Life 2 / Source 2004 aesthetic. Input image 1 is REFERENCE ONLY for material family, aggregate scale, muted greige colors and brightness; create a genuinely NEW distribution of grains, NOT a filter or recolor. Orthographic straight-down edge-to-edge material swatch, equal detail over whole square, physically unlit diffuse color with no illumination baked in. Seamless on all four edges. Same subtly granular gray-beige terrazzo/concrete with small cream, charcoal and subdued brown mineral chips; preserve the tiny aggregate scale and visually cohesive appearance of the reference. Very modest variation, within 5-10 percent of reference overall color and contrast. Variant: barely COOLER and more DESATURATED aged gray-beige terrazzo with a very subtly pitted matte mineral binder, finely scattered tiny stone chips in a new irregular pattern. Cool shift is restrained and neutral, absolutely no blue or teal tint; same reference brightness. No large cracks, stains, objects, trash, blood, footprints, lettering, grout, grids, panel divisions or tile edges. No perspective, lights, shadows, specular highlights, vignette or transparency. Generate one square opaque texture.",
+      "source": "/home/afterburner/.codex/generated_images/01a15173-8ff8-7f41-bcd1-16ca7fb4e9e9/exec-27823c50-0db8-4039-a663-088c951f08b0.png",
+      "reference": "Assets/Art/Environment/ResidentialV2/Floor_Albedo.png",
+      "destination": "Assets/Art/Environment/FloorSurfaces/FloorCoolAged.png",
+      "transparent_background": false
+    }
+  ]
+}

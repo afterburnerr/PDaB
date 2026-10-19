@@ -1,0 +1,8 @@
+{
+  "name": "FPLab.Gameplay",
+  "rootNamespace": "FPLab.Gameplay",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "seeds": 32,
+  "minMetres": 338.800018,
+  "maxMetres": 398.2,
+  "meanMetres": 369.4625,
+  "minDeadEnds": 14,
+  "elapsedMs": 66,
+  "issues": [],
+  "samples": [
+    {
+      "seed": -8,
+      "steps": 174,
+      "metres": 382.800018,
+      "cells": 331,
+      "leaves": 18,
+      "rooms": 61
+    },
+    {
+      "seed": -7,
+      "steps": 161,
+      "metres": 354.2,
+      "cells": 338,
+      "leaves": 17,
+      "rooms": 62
+    },
+    {
+      "seed": -6,
+      "steps": 169,
+      "metres": 371.800018,
+      "cells": 341,
+      "leaves": 19,
+      "rooms": 65
+    },
+    {
+      "seed": -5,
+      "steps": 167,
+      "metres": 367.4,
+      "cells": 339,
+      "leaves": 20,
+      "rooms": 65
+    },
+    {
+      "seed": -4,
+      "steps": 180,
+      "metres": 396.0,
+      "cells": 348,
+      "leaves": 19,
+      "rooms": 65
+    },
+    {
+      "seed": -3,
+      "steps": 169,
+      "metres": 371.800018,
+      "cells": 336,
+      "leaves": 19,
+      "rooms": 65
+    },
+    {
+      "seed": -2,
+      "steps": 156,
+      "metres": 343.2,
+      "cells": 328,
+      "leaves": 17,
+      "rooms": 62
+    },
+    {
+      "seed": -1,
+      "steps": 173,
+      "metres": 380.6,
+      "cells": 335,
+      "leaves": 14,
+      "rooms": 60
+    },
+    {
+      "seed": 0,
+      "steps": 181,
+      "metres": 398.2,
+      "cells": 339,
+      "leaves": 21,
+      "rooms": 65
+    },
+    {
+      "seed": 1,
+      "steps": 173,
+      "metres": 380.6,
+      "cells": 335,
+      "leaves": 14,
+      "rooms": 60
+    },
+    {
+      "seed": 2,
+      "steps": 156,
+      "metres": 343.2,
+      "cells": 328,
+      "leaves": 17,
+      "rooms": 62
+    },
+    {
+      "seed": 3,
+      "steps": 169,
+      "metres": 371.800018,
+      "cells": 336,
+      "leaves": 19,
+      "rooms": 65
+    },
+    {
+      "seed": 4,
+      "steps": 180,
+      "metres": 396.0,
+      "cells": 348,
+      "leaves": 19,
+      "rooms": 65
+    },
+    {
+      "seed": 5,
+      "steps": 167,
+      "metres": 367.4,
+      "cells": 339,
+      "leaves": 20,
+      "rooms": 65
+    },
+    {
+      "seed": 6,
+      "steps": 169,
+      "metres": 371.800018,
+      "cells": 341,
+      "leaves": 19,
+      "rooms": 65
+    },
+    {
+      "seed": 7,
+      "steps": 161,
+      "metres": 354.2,
+      "cells": 338,
+      "leaves": 17,
+      "rooms": 62
+    },
+    {
+      "seed": 8,
+      "steps": 174,
+      "metres": 382.800018,
+      "cells": 331,
+      "leaves": 18,
+      "rooms": 61
+    },
+    {
+      "seed": 9,
+      "steps": 163,
+      "metres": 358.6,
+      "cells": 335,
+      "leaves": 18,
+      "rooms": 61
+    },
+    {
+      "seed": 10,
+      "steps": 176,
+      "metres": 387.2,
+      "cells": 329,
+      "leaves": 18,
+      "rooms": 63
+    },
+    {
+      "seed": 11,
+      "steps": 180,
+      "metres": 396.0,
+      "cells": 330,
+      "leaves": 18,
+      "rooms": 65
+    },
+    {
+      "seed": 12,
+      "steps": 168,
+      "metres": 369.6,
+      "cells": 336,
+      "leaves": 21,
+      "rooms": 65
+    },
+    {
+      "seed": 13,
+      "steps": 169,
+      "metres": 371.800018,
+      "cells": 341,
+      "leaves": 17,
+      "rooms": 65
+    },
+    {
+      "seed": 14,
+      "steps": 166,
+      "metres": 365.2,
+      "cells": 335,
+      "leaves": 21,
+      "rooms": 65
+    },
+    {
+      "seed": 15,
+      "steps": 172,
+      "metres": 378.4,
+      "cells": 332,
+      "leaves": 18,
+      "rooms": 65
+    },
+    {
+      "seed": 16,
+      "steps": 170,
+      "metres": 374.0,
+      "cells": 319,
+      "leaves": 19,
+      "rooms": 65
+    },
+    {
+      "seed": 17,
+      "steps": 165,
+      "metres": 363.0,
+      "cells": 348,
+      "leaves": 20,
+      "rooms": 65
+    },
+    {
+      "seed": 18,
+      "steps": 154,
+      "metres": 338.800018,
+      "cells": 342,
+      "leaves": 21,
+      "rooms": 65
+    },
+    {
+      "seed": 19,
+      "steps": 170,
+      "metres": 374.0,
+      "cells": 332,
+      "leaves": 20,
+      "rooms": 64
+    },
+    {
+      "seed": 20,
+      "steps": 160,
+      "metres": 352.0,
+      "cells": 345,
+      "leaves": 18,
+      "rooms": 63
+    },
+    {
+      "seed": 21,
+      "steps": 156,
+      "metres": 343.2,
+      "cells": 345,
+      "leaves": 18,
+      "rooms": 65
+    },
+    {
+      "seed": 22,
+      "steps": 166,
+      "metres": 365.2,
+      "cells": 333,
+      "leaves": 15,
+      "rooms": 61
+    },
+    {
+      "seed": 23,
+      "steps": 160,
+      "metres": 352.0,
+      "cells": 333,
+      "leaves": 18,
+      "rooms": 65
+    }
+  ]
+}

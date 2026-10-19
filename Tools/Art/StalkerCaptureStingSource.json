@@ -1,0 +1,21 @@
+{
+  "asset": "Assets/Audio/Horror/Stalker/CaptureSting.wav",
+  "durationSeconds": 1.02,
+  "channels": 1,
+  "sampleBits": 16,
+  "sampleRate": 44100,
+  "peak": 0.82,
+  "rms": 0.2075165701384934,
+  "generator": "Tools/Art/GenerateStalkerCaptureSting.py",
+  "seed": 19860426,
+  "synthesis": "Original descending impact, inharmonic screech and low-pass-filtered rasp, soft saturation, 5ms attack and 160ms smooth release.",
+  "sampledLayer": {
+    "asset": "Assets/Audio/Horror/Stalker/CaughtScream.wav",
+    "sourceEntry": "sound/ambient/voices/m_scream1.wav",
+    "sourceGame": "Local Half-Life 2 installation",
+    "sourceSha256": "c96e3ba55e6d4315764f2481f1735ed737643a75c3b390ecd0ad86421bdbe77a",
+    "processing": "Linear-resampled at 0.91 pitch, peak-normalized before mixing; original WAV is untouched."
+  },
+  "sha256": "e3cf74bfb2182ea0da1d0547d30f31acccfdd47fd382b518ac4ec879373098fa",
+  "playback": "One-shot 2D, volume 0.80, pitch 1, ignoreListenerPause, no distance attenuation. Runs on the same Caught state event as the still illustration."
+}

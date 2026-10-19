@@ -1,0 +1,15 @@
+{
+  "title": "Distorted Trumpets (Half-Life 2 radio1)",
+  "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+  "sourceEntry": "sound/music/radio1.mp3",
+  "asset": "Assets/Audio/HalfLife2/Ambience/DistortedTrumpets.mp3",
+  "bytes": 637704,
+  "crc32": "1571ecec",
+  "sha256": "c1b60085eb0562bca281079e89322178b6b33bb2d4942bfd7ecad181dea35489",
+  "durationSeconds": 39.7925,
+  "sampleRate": 44100,
+  "channels": 1,
+  "conversion": "None; original MP3 bytes preserved, no pitch or audio effects",
+  "playback": "2D loop during gameplay; pauses with session and resumes at same position",
+  "volume": 0.2
+}

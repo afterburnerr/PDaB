@@ -1,0 +1,297 @@
+{
+  "status": "passed",
+  "finished": true,
+  "phase": 17,
+  "elapsed": 51.835210189998179,
+  "error": null,
+  "checks": [
+    {
+      "check": "Runtime references present",
+      "pass": true,
+      "evidence": null,
+      "phase": 0,
+      "elapsed": 0.00063287699958891608
+    },
+    {
+      "check": "Ready menu plays Citadel ambience",
+      "pass": true,
+      "evidence": null,
+      "phase": 0,
+      "elapsed": 0.51536655299787526
+    },
+    {
+      "check": "32 registered ceiling light safe zones",
+      "pass": true,
+      "evidence": 32,
+      "phase": 2,
+      "elapsed": 4.2283119659987278
+    },
+    {
+      "check": "Start is protected by a real ceiling lamp",
+      "pass": true,
+      "evidence": null,
+      "phase": 2,
+      "elapsed": 4.2306163180001022
+    },
+    {
+      "check": "Exit is reachable",
+      "pass": true,
+      "evidence": null,
+      "phase": 2,
+      "elapsed": 4.2314983920005034
+    },
+    {
+      "check": "Found dark route cell after sufficient fair-spawn progress",
+      "pass": true,
+      "evidence": 12,
+      "phase": 2,
+      "elapsed": 4.2324981179990573
+    },
+    {
+      "check": "Fair spawn retains graph distance",
+      "pass": true,
+      "evidence": 12,
+      "phase": 3,
+      "elapsed": 22.23140664300081
+    },
+    {
+      "check": "Enemy visual is active",
+      "pass": true,
+      "evidence": null,
+      "phase": 3,
+      "elapsed": 22.23144983399834
+    },
+    {
+      "check": "Enemy Animator/controller present",
+      "pass": true,
+      "evidence": null,
+      "phase": 3,
+      "elapsed": 22.23158417599916
+    },
+    {
+      "check": "Animator has an active clip",
+      "pass": true,
+      "evidence": null,
+      "phase": 3,
+      "elapsed": 22.231860273997881
+    },
+    {
+      "check": "Enemy actually advances over two seconds",
+      "pass": true,
+      "evidence": null,
+      "phase": 4,
+      "elapsed": 24.232195628999762
+    },
+    {
+      "check": "Threat starts positional murmurs during approach",
+      "pass": true,
+      "evidence": null,
+      "phase": 4,
+      "elapsed": 24.232197201999952
+    },
+    {
+      "check": "Player survives under lamp",
+      "pass": true,
+      "evidence": null,
+      "phase": 5,
+      "elapsed": 26.233989139000187
+    },
+    {
+      "check": "Lamp triggers retreat rather than camping",
+      "pass": true,
+      "evidence": 3,
+      "phase": 5,
+      "elapsed": 26.233996491999278
+    },
+    {
+      "check": "Protected player survives sustained lamp hold",
+      "pass": true,
+      "evidence": null,
+      "phase": 6,
+      "elapsed": 38.235656311000639
+    },
+    {
+      "check": "Enemy retreats at least eight graph cells",
+      "pass": true,
+      "evidence": 11,
+      "phase": 6,
+      "elapsed": 38.235665477997827
+    },
+    {
+      "check": "Enemy does not return and camp while player stays lit",
+      "pass": true,
+      "evidence": 11,
+      "phase": 7,
+      "elapsed": 43.237417574000574
+    },
+    {
+      "check": "Unpowered lamp grants no safety",
+      "pass": true,
+      "evidence": null,
+      "phase": 7,
+      "elapsed": 43.237490540999715
+    },
+    {
+      "check": "Flashlight component exists",
+      "pass": true,
+      "evidence": null,
+      "phase": 7,
+      "elapsed": 43.237631765998231
+    },
+    {
+      "check": "Player flashlight really is switched on during safety check",
+      "pass": true,
+      "evidence": null,
+      "phase": 7,
+      "elapsed": 43.2376555310002
+    },
+    {
+      "check": "Flashlight cannot register a safe zone in a dark cell",
+      "pass": true,
+      "evidence": null,
+      "phase": 7,
+      "elapsed": 43.237669466998341
+    },
+    {
+      "check": "Dark contact fixture starts during active retreat cooldown",
+      "pass": true,
+      "evidence": null,
+      "phase": 7,
+      "elapsed": 43.237726985000336
+    },
+    {
+      "check": "Capture freezes player controls/world",
+      "pass": true,
+      "evidence": null,
+      "phase": 8,
+      "elapsed": 43.646723844998633
+    },
+    {
+      "check": "No camera capture animation component remains",
+      "pass": true,
+      "evidence": null,
+      "phase": 8,
+      "elapsed": 43.647392719998606
+    },
+    {
+      "check": "Still capture illustration is visible",
+      "pass": true,
+      "evidence": null,
+      "phase": 8,
+      "elapsed": 43.647519267000462
+    },
+    {
+      "check": "Jumpscare sound plays despite frozen game",
+      "pass": true,
+      "evidence": null,
+      "phase": 8,
+      "elapsed": 43.647793110998464
+    },
+    {
+      "check": "Enemy confronts player following into darkness without waiting for cooldown",
+      "pass": true,
+      "evidence": null,
+      "phase": 8,
+      "elapsed": 43.647795065000537
+    },
+    {
+      "check": "Defeat offers restart",
+      "pass": true,
+      "evidence": null,
+      "phase": 9,
+      "elapsed": 44.80126989099881
+    },
+    {
+      "check": "Illustration remains behind defeat UI",
+      "pass": true,
+      "evidence": null,
+      "phase": 9,
+      "elapsed": 44.801321077000466
+    },
+    {
+      "check": "Runtime references present",
+      "pass": true,
+      "evidence": null,
+      "phase": 11,
+      "elapsed": 45.61922701399817
+    },
+    {
+      "check": "Restart resets enemy cheat flag and elapsed time",
+      "pass": true,
+      "evidence": null,
+      "phase": 11,
+      "elapsed": 48.616314484999748
+    },
+    {
+      "check": "Actual easy key sequence disables enemy for this run",
+      "pass": true,
+      "evidence": null,
+      "phase": 13,
+      "elapsed": 49.893314010998438
+    },
+    {
+      "check": "Actual tp keys do not finish the run",
+      "pass": true,
+      "evidence": null,
+      "phase": 15,
+      "elapsed": 50.788235048999923
+    },
+    {
+      "check": "tp places player inside before the exit",
+      "pass": true,
+      "evidence": null,
+      "phase": 15,
+      "elapsed": 50.788426888997492
+    },
+    {
+      "check": "tp faces the player toward the exit",
+      "pass": true,
+      "evidence": null,
+      "phase": 15,
+      "elapsed": 50.788430084998254
+    },
+    {
+      "check": "Player wins only after walking out through the exit trigger",
+      "pass": true,
+      "evidence": null,
+      "phase": 16,
+      "elapsed": 51.030591124999773
+    },
+    {
+      "check": "Native frame capture saved: Menu.png",
+      "pass": true,
+      "evidence": null,
+      "phase": 17,
+      "elapsed": 51.832399266997527
+    },
+    {
+      "check": "Native frame capture saved: StalkerCaught.png",
+      "pass": true,
+      "evidence": null,
+      "phase": 17,
+      "elapsed": 51.832421869999962
+    },
+    {
+      "check": "Native frame capture saved: Defeat.png",
+      "pass": true,
+      "evidence": null,
+      "phase": 17,
+      "elapsed": 51.832432899998821
+    },
+    {
+      "check": "Native frame capture saved: Victory.png",
+      "pass": true,
+      "evidence": null,
+      "phase": 17,
+      "elapsed": 51.832443330000388
+    }
+  ],
+  "session": "Won",
+  "seed": 134871189,
+  "screenshots": [
+    "Menu.png",
+    "StalkerCaught.png",
+    "Defeat.png",
+    "Victory.png"
+  ]
+}

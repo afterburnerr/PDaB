@@ -1,0 +1,79 @@
+{
+  "generator": "built-in image_gen",
+  "generatedOn": "2026-10-19",
+  "purpose": "Original Source 2004 / Half-Life 2 inspired Soviet stairwell environment albedo textures. Supplied Valve textures are style references only; shipped surfaces are imagegen results.",
+  "assets": [
+    {
+      "asset": "Plaster_Albedo.png",
+      "reference": "Tools/Art/References/HL2/plaster_plasterwall034a.png",
+      "prompt": "Use case: stylized-concept. Asset type: original game environment RAW UNLIT albedo texture sheet, 1024x1024 square. Create a NEW original texture inspired only by the supplied Half-Life 2 texture's restrained Source 2004 material language, not a copy. Full bleed orthographic flat surface, seamlessly repeatable left/right and top/bottom, same midtone exposure across edges. Readable deliberate game detail, not hyperreal macro photography, not modern photogrammetry. No lighting, cast shadows, ambient occlusion, vignette, perspective, room scene, text, logos, frames, labels, borders or contact sheet. Midtone albedo for real game lights; do not bake in darkness. Subject: Entire surface is aged beige-gray upper-wall Soviet apartment plaster, fine trowel marks, small peeling paint patches and hairline cracks, restrained uneven grime, a few larger repairs; balanced low-frequency variation without a conspicuous central motif. No green paint, no colored horizontal band, no distinct floor/bottom edge.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-67b3adf0-144e-46b5-be7d-a65b351a169c.png",
+      "path": "Assets/Art/Environment/Generated/Plaster_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true
+    },
+    {
+      "asset": "Paint_Albedo.png",
+      "reference": "Tools/Art/References/HL2/plaster_plasterwall034c.png",
+      "prompt": "Use case: stylized-concept. Asset type: original game environment RAW UNLIT albedo texture sheet, 1024x1024 square. Create a NEW original texture inspired only by the supplied Half-Life 2 texture's restrained Source 2004 material language, not a copy. Full bleed orthographic flat surface, seamlessly repeatable left/right and top/bottom, same midtone exposure across edges. Readable deliberate game detail, not hyperreal macro photography, not modern photogrammetry. No lighting, cast shadows, ambient occlusion, vignette, perspective, room scene, text, logos, frames, labels, borders or contact sheet. Midtone albedo for real game lights; do not bake in darkness. Subject: Entire surface is worn muted desaturated dark teal-olive Soviet oil-painted plaster, chipped scratches exposing gray-beige plaster beneath, textured brushwork and modest moisture wear. Take color/material cue from reference lower painted area, but cover WHOLE square in paint. No horizontal dividing line, no stripe/band, no unpainted upper section, no wall bottom or drain.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-7e411d07-ff31-4397-a4d7-dbbfabb48f84.png",
+      "path": "Assets/Art/Environment/Generated/Paint_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true
+    },
+    {
+      "asset": "Floor_Albedo.png",
+      "reference": "Tools/Art/References/HL2/tile_tilefloor012a.png",
+      "prompt": "Use case: stylized-concept. Asset type: original game environment RAW UNLIT albedo texture sheet, 1024x1024 square. Create a NEW original texture inspired only by the supplied Half-Life 2 texture's restrained Source 2004 material language, not a copy. Full bleed orthographic flat surface, seamlessly repeatable left/right and top/bottom, same midtone exposure across edges. Readable deliberate game detail, not hyperreal macro photography, not modern photogrammetry. No lighting, cast shadows, ambient occlusion, vignette, perspective, room scene, text, logos, frames, labels, borders or contact sheet. Midtone albedo for real game lights; do not bake in darkness. Subject: Dirty small square gray Soviet stairwell floor ceramic tiles, a regular eight by eight grid of evenly sized square tiles, straight thin dark gray grout, modest chipped corners and muted scuffing, occasional beige grime, dull gray palette with small tonal differences between tiles. Grid must meet seamlessly at edges. No large cracks that dominate tile pattern.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-ab19c28c-36ca-4c82-9660-8965e9005ce2.png",
+      "path": "Assets/Art/Environment/Generated/Floor_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true
+    },
+    {
+      "asset": "Ceiling_Albedo.png",
+      "reference": "Tools/Art/References/HL2/concrete_concretefloor013a.png",
+      "prompt": "Use case: stylized-concept. Asset type: original game environment RAW UNLIT albedo texture sheet, 1024x1024 square. Create a NEW original texture inspired only by the supplied Half-Life 2 texture's restrained Source 2004 material language, not a copy. Full bleed orthographic flat surface, seamlessly repeatable left/right and top/bottom, same midtone exposure across edges. Readable deliberate game detail, not hyperreal macro photography, not modern photogrammetry. No lighting, cast shadows, ambient occlusion, vignette, perspective, room scene, text, logos, frames, labels, borders or contact sheet. Midtone albedo for real game lights; do not bake in darkness. Subject: Aged gray Soviet stairwell poured concrete ceiling surface, fine branching hairline cracks, restrained soft irregular water stains and modest scuffs, subtle cast-concrete grain and a few worn repairs. Entire surface gray concrete, no exposed rebar, fixtures, joints, rust metal, or floor objects. Mid-light gray albedo, not black.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-f90be689-6c95-4f8c-8e32-ddf08233a37a.png",
+      "path": "Assets/Art/Environment/Generated/Ceiling_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true
+    },
+    {
+      "asset": "Door_Albedo.png",
+      "reference": "Tools/Art/References/HL2/metal_metaldoor005a.png",
+      "prompt": "Use case: stylized-concept. Asset type: original game environment RAW UNLIT albedo texture sheet, 1024x2048 portrait. Create a NEW original texture inspired only by the supplied Half-Life 2 texture's restrained Source 2004 material language, not a copy. Full bleed orthographic flat surface, same midtone exposure across the whole sheet. Readable deliberate game detail, not hyperreal macro photography, not modern photogrammetry. No lighting, cast shadows, ambient occlusion, vignette, perspective, room scene, text, logos, frames, labels, borders or contact sheet. Midtone albedo for real game lights; do not bake in darkness. Subject: ONE single front-flat Soviet apartment metal door slab filling the entire tall 1024x2048 portrait canvas edge to edge. Rusty muted blue-gray paint with worn brown underlayers, four restrained simple symmetrical rectangular inset panels running vertically, chipped edges, scuffs, original asymmetrical patina. NOT double doors. No doorframe, handle, knobs, hinges, keyholes, numbers, signage, text, surrounding wall, ground, black margin, background or perspective. Entire canvas is the door slab, raw unlit albedo, no baked light or shadows; no need for vertical tiling.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-33c2b928-44de-4fca-a430-8da80f3b89d4.png",
+      "path": "Assets/Art/Environment/Generated/Door_Albedo.png",
+      "width": 887,
+      "height": 1774,
+      "tileable": false
+    },
+    {
+      "asset": "Metal_Albedo.png",
+      "reference": "Tools/Art/References/HL2/metal_metaldoor005a.png",
+      "prompt": "Use case: stylized-concept. Asset type: original game environment RAW UNLIT albedo texture sheet, 1024x1024 square. Create a NEW original texture inspired only by the supplied Half-Life 2 texture's restrained Source 2004 material language, not a copy. Full bleed orthographic flat surface, seamlessly repeatable left/right and top/bottom, same midtone exposure across edges. Readable deliberate game detail, not hyperreal macro photography, not modern photogrammetry. No lighting, cast shadows, ambient occlusion, vignette, perspective, room scene, text, logos, frames, labels, borders or contact sheet. Midtone albedo for real game lights; do not bake in darkness. Subject: Entire square is dark worn painted iron surface for handrails and trim, muted charcoal-gray with restrained rubbed steel scratches, small rust speckles and rubbed gray-green paint chips. Plain contiguous material, NOT a door or panels: no panel outlines, no hardware or joints, no boltheads, no stripes, no bars. Seamlessly repeatable both axes, midtone charcoal albedo and readable wear, not crushed black.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-4deeb10c-95dd-4f67-9dff-0f3c7d95cb33.png",
+      "path": "Assets/Art/Environment/Generated/Metal_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true
+    },
+    {
+      "asset": "Glass_Albedo.png",
+      "reference": "Tools/Art/References/HL2/plaster_plasterwall034a.png",
+      "prompt": "Use case: stylized-concept. Asset type: original game environment RAW UNLIT albedo texture sheet, 1024x1024 square. Create a NEW original texture inspired only by the supplied Half-Life 2 texture's restrained Source 2004 material language, not a copy. Full bleed orthographic flat surface, seamlessly repeatable left/right and top/bottom, same midtone exposure across edges. Readable deliberate game detail, not hyperreal macro photography, not modern photogrammetry. No lighting, cast shadows, ambient occlusion, vignette, perspective, room scene, text, logos, frames, labels, borders or contact sheet. Midtone albedo for real game lights; do not bake in darkness. Subject: A flat contiguous sheet of dirty Soviet stairwell frosted ribbed wired glass: very fine regular vertical glass ribs, thin subtle embedded wire lattice, scattered chalky fingerprints and dusty smudges, desaturated gray-green. Seamless both axes. RAW OPAQUE diffuse albedo: no transparency, no glow, no shining highlights, no reflections, no view through glass, no lighting, no window frame. Deliberately simple Source 2004 game-material detail.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-23988857-b6c8-4fb1-b190-423058922f17.png",
+      "originalSource": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-a5d1d68b-ad7a-465c-a963-8dc7a6f49937.png",
+      "correctionPrompt": "Use case: precise-object-edit. Target is an original game texture of Soviet stairwell frosted ribbed wired glass. Preserve the square full-bleed straight-on seamless glass surface, fine vertical ribs and subtle thin wire lattice, gray-green neutral opaque raw albedo, restrained Source 2004 material detail. Remove ALL shoe prints, boot prints, sole tread marks and white emblem-like marks. Replace them ONLY with very faint amorphous diffuse dusty grime and a few fine random scratches without any recognizable shapes. This is a glass material swatch, not a floor. Do not add hands, footprints, fingerprints, symbols, lettering, labels, shadows, lighting, reflections or transparent views. Uniform unlit albedo; no vignettes or frame. Keep all four edges seamlessly repeatable. 1024x1024.",
+      "path": "Assets/Art/Environment/Generated/Glass_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true
+    }
+  ]
+}

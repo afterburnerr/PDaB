@@ -1,0 +1,99 @@
+{
+  "fonts": [
+    {
+      "source": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/resource/halflife2.ttf",
+      "asset": "Assets/Art/UI/HalfLife2/Fonts/HalfLife2.ttf",
+      "purpose": "HudNumbers",
+      "family": "HalfLife2",
+      "bytes": 92796,
+      "sha256": "c09544b387a15cfbc8d43765716ee69f89bbb6f0bb6d95409ec98282daac07e8"
+    },
+    {
+      "source": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/platform/resource/linux_fonts/dejavusans-bold.ttf",
+      "asset": "Assets/Art/UI/HalfLife2/Fonts/DejaVuSans-Bold.ttf",
+      "purpose": "AUX POWER and SPRINT labels; bundled Linux substitute for requested Verdana",
+      "family": "DejaVu Sans Bold",
+      "bytes": 705684,
+      "sha256": "10fa207611d965b91051f70603aa67f887cc83e6d0b4e152a8527f2bfce289b7"
+    }
+  ],
+  "definitions": [
+    {
+      "source": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/resource/clientscheme.res",
+      "sha256": "fc9e197e48dc613c091a53d140e31f55df9fb4675fb9962b90ce8404821b6e4a"
+    },
+    {
+      "source": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/scripts/hudlayout.res",
+      "sha256": "37661d67477f5a0ce6285aaf71c1608cf74078634e9a5f8500cc3cb6cd4d3423"
+    },
+    {
+      "source": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/scripts/hudanimations.txt",
+      "sha256": "64b3b1603f6d1d8a09d58059ecb30c90b46d5b89d4a649828dfbc4ff1541b8b8"
+    },
+    {
+      "source": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/resource/valve_english.txt",
+      "sha256": "90458b226906c0079a3a853a1b89f9c064bbb1e11b3e21b847e997a379d908a2"
+    }
+  ],
+  "hudNumbers": {
+    "schemeName": "HudNumbers",
+    "family": "HalfLife2",
+    "tall": 32,
+    "additive": true,
+    "digits": "0123456789",
+    "colonWarning": "The colon glyph is an icon, not timer punctuation; use separate UI dots."
+  },
+  "auxPower": {
+    "coordinateSystem": "Source proportional 640 x 480, non-Deck layout",
+    "panel": {
+      "x": 16,
+      "y": 420,
+      "width": 102,
+      "height": 48
+    },
+    "bar": {
+      "x": 8,
+      "y": 15,
+      "width": 92,
+      "height": 4,
+      "chunkWidth": 6,
+      "chunkGap": 3
+    },
+    "caption": {
+      "x": 8,
+      "y": 4,
+      "text": "AUX POWER"
+    },
+    "activeDevice": {
+      "x": 8,
+      "y": 22,
+      "gap": 10,
+      "text": "SPRINT"
+    },
+    "captionFontRequested": "Default / Verdana bold",
+    "captionFontImported": "DejaVu Sans Bold, bundled Source Linux substitute",
+    "icon": null,
+    "highColor": [
+      255,
+      220,
+      0,
+      220
+    ],
+    "lowColor": [
+      255,
+      0,
+      0,
+      220
+    ],
+    "disabledAlpha": 70,
+    "lowThresholdPercent": 25,
+    "colorTransitionSeconds": 0.4,
+    "backgroundColor": [
+      0,
+      0,
+      0,
+      76
+    ],
+    "originalBehavior": "SuitAuxPowerMax fades panel/bar out over 0.4 seconds; not-max fades in."
+  }
+}

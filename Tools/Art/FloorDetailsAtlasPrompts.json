@@ -1,0 +1,92 @@
+{
+  "generator": "builtin image_gen.imagegen",
+  "generatedAt": "2026-10-19",
+  "useCase": "stylized-concept",
+  "layout": {
+    "columns": 3,
+    "rows": 3,
+    "sampling": "equal thirds",
+    "transparentBackground": true
+  },
+  "assets": [
+    {
+      "path": "Assets/Art/Environment/FloorDetails/FloorScuffs.png",
+      "source": "/home/afterburner/.codex/generated_images/01a1515f-d487-7dc0-a463-81d6e6d3dbea/exec-7484a605-2735-4201-944b-f385d67af574.png",
+      "prompt": "Use case: stylized-concept. Asset type: flat RGBA game floor decal atlas. A square canvas with EXACTLY nine different isolated marks arranged as precisely aligned three by three equal cell grid. Actual transparent background everywhere except the narrow charcoal lines themselves. Create FLAT DARK RUBBER SHOE SCUFFS and very thin SCRATCH LINE CLUSTERS. These are graphics resembling dry charcoal rubbed onto invisible smooth glass, NOT pieces of concrete and NOT dusty material patches. NO FILLED SHAPES. NO GREY SUBSTRATE. NO CONCRETE. NO GRAVEL. NO DUST. NO RELIEF. Empty fully transparent space between every individual scratch stroke and throughout mark interiors. Each cluster stays inside the center 60 percent of its equal-third cell, with generous transparent gutter. Nine subjects reading order: three short curved rubber heel arcs; six thin parallel diagonal scratch lines; broken partial shoe tread made only of small charcoal dash strokes; long narrow dragged furniture scuff composed of fine dark lines; crossed hairline scratches like an X made from a few thin strokes; loose curved overlapping shoe swivel arcs; short dark rubber zigzag rub; several long delicate sweeping scrape lines with broken ends; tiny overlapping crescent heel strokes. All nine unique. Colors nearly black muted charcoal and faint taupe only. Every individual stroke should have rough feathered translucent ends fading into transparency, lightweight subtle albedo overlay for greybeige terrazzo. 2004 Source Half-Life 2 modest handpainted game decal style. Flat orthographic top down. Zero lighting, zero shadows, zero highlights, zero bevel, zero embossed appearance, zero material beneath strokes, zero texture rectangles. No text, borders, grid, symbols, watermarks or ground. This image must be mostly empty transparent space with only sparse thin scuff strokes.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "transparentPixels": 1101955,
+        "translucentPixels": 470560,
+        "opaquePixels": 1
+      },
+      "rejectedVariant": {
+        "path": "Tools/Art/References/FloorScuffsRejected.png",
+        "source": "/home/afterburner/.codex/generated_images/01a1515f-d487-7dc0-a463-81d6e6d3dbea/exec-ebf678b2-e4bd-438a-b4e8-f133becf77d2.png",
+        "prompt": "Use case: stylized-concept. Asset type: production Unity floor decal texture atlas, RGBA PNG. Generate a square 3 by 3 atlas containing NINE DISTINCT separate worn floor scuff patches in precisely equal thirds grid alignment. Each patch is centered within its own imaginary equal-size square tile, wholly confined to the middle 70 percent of that tile, with generous completely transparent gutters between patches and all outer image edges. The tile grid itself must be INVISIBLE. Subjects in reading order: partial smeared boot sole tread; thin crossed dragged furniture scratches; dusty crescent heel rub; short parallel scraped beige abrasion streaks; diffuse gritty dark foot shuffle; scattered hairline scratch cluster; sweeping curved charcoal shoe scuff; irregular worn dragged crate scrape; small overlapping faint sole rubs. True orthographic top-down flat albedo, meant to alpha blend over an existing grey beige terrazzo residential hallway floor. Classic Half-Life 2 Source engine 2004 hand-authored gritty subdued game texture aesthetic, modest plausible detail for an old Soviet apartment entrance, muted charcoal and grey beige. All marks have irregular feathered translucent edges fading into actual transparency. Avoid sharp rectangular boundaries. ONLY the marks and tiny related grit are visible, no floor surface, no base tiles, no background, no scene, no perspective, no lighting, no shadows baked around patches, no ambient occlusion background, no text, no border, no watermark. Genuinely transparent background, not a drawn checkerboard. Nine patches must be different and stay centered in their equal thirds cells.",
+        "reason": "Too similar to grime; raised concrete-like dusty substrate instead of flat rubber scuff linework."
+      },
+      "inspection": "Regenerated as distinct flat charcoal rubber scuffs, thin scratch clusters, and partial sole tread. Empty transparent interiors and wide gutters; no concrete substrate."
+    },
+    {
+      "path": "Assets/Art/Environment/FloorDetails/FloorGrime.png",
+      "source": "/home/afterburner/.codex/generated_images/01a1515f-d487-7dc0-a463-81d6e6d3dbea/exec-0530949a-a812-47de-96b9-7cb72ddfceb8.png",
+      "prompt": "Use case: stylized-concept. Asset type: RGBA transparent production game decal atlas. Create ONE square image with EXACTLY NINE DISTINCT isolated dirt-and-grime decal marks arranged 3 rows by 3 columns, centered at the centers of nine imaginary equal-third cells. Invisible grid, no outlines. Every mark fits only middle 65 percent of its cell with wide completely transparent gutters. Actual alpha transparent image. This is a decal overlay only; absolutely no patch of the underlying floor or concrete. The invisible underlying surface is NOT to be pictured. Render only scattered pigment, dust particles, grit, and stains, with sparse air gaps through their interiors and very diffuse soft alpha fading to zero at irregular boundaries. Keep coverage lightweight so floor remains visible beneath. Nine subjects reading order: fine grey dust swept into uneven crescent; small dry muddy shoe fragments with gaps; dark charcoal soot speckle cluster; ochre old dried splash specks; faint irregular grease smudge rubbed thin; fine dusty plaster grit scatter; muddy heel edge drag with scattered dried grains; brown dusty footprint fragments and swept grit; subtle worn oily dust arcs with scattered fine debris. Top down orthographic flat color diffuse decal textures. Understated old Soviet residential apartment entrance floor wear. Classic 2004 Half-Life 2 Source game handmade texture aesthetic, muted brown grey and charcoal, no dramatic contrast. No liquid puddles, no gore, no blood, no garbage objects, no embossed material, no 3D lighting, no shadows, no square backgrounds, no base plates, no floor squares, no slab fragments. No text or watermark. The 9 marks must all be unique. Preserve generous transparency between and around marks. True transparent background, not checkerboard painted into image.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "transparentPixels": 629841,
+        "translucentPixels": 942668,
+        "opaquePixels": 7
+      }
+    },
+    {
+      "path": "Assets/Art/Environment/FloorDetails/FloorLitter.png",
+      "prompt": "Use case: stylized-concept. Asset type: production transparent floor decal ATLAS for a 2004 Source-engine style horror game set in a worn Soviet residential apartment entrance. Generate a square 3 by 3 atlas of NINE DISTINCT small isolated litter clusters, one cluster precisely centered in each equal third-sized square tile. Each cluster must fit entirely in the central 65-70 percent of its tile, with generous completely transparent empty gutters on all four sides. Top-down orthographic, flat neutral diffuse material albedo illumination, no directional highlights or baked floor shadows. Nine different combinations: crumpled dirty receipt scraps; a few cigarette butts and ash; torn faded unbranded wrapper scraps; chipped white paint/plaster fragments; dried small leaves with dust; flattened unbranded paper cup and tiny scraps; dusty torn cardboard slivers; grubby paper with two bottle caps; brittle plaster crumbs and thin wood splinters. Plausible small domestic trash, not garbage heaps. Faded beige, dirty off-white, rust brown, grey, muted brown-green. Hand-authored gritty Half-Life 2 era game texture feel, modest detail and restrained contrast, no photoreal glossy product render. Each of the nine silhouettes must differ. Background ACTUALLY TRANSPARENT, alpha zero between all objects and in all outer gutters; no floor texture, no ground plane, no square patches or frames, no grid lines, no drop shadows, no legible text/logos, no watermark. Fine dust softly fades to transparent; object cutouts have clean irregular antialiased edges. Atlas will be sliced into exactly 3x3 equal UV cells by Unity.",
+      "source": "/home/afterburner/.codex/generated_images/01a15045-469a-7d12-9b9d-05e388aec621/exec-eee30122-a881-4dba-8bc9-446f4f6534e6.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "Assets/Art/Environment/FloorDetails/FloorLitterLarge.png",
+      "source": "/home/afterburner/.codex/generated_images/01a1515f-d487-7dc0-a463-81d6e6d3dbea/exec-9a0c68a3-d623-4abd-8575-b8a1d8065f01.png",
+      "prompt": "Use case: stylized-concept. Asset type: RGBA game floor litter decal atlas. Square transparent image containing exactly NINE distinct isolated messy floor rubbish clusters arranged in precisely equal thirds, 3 columns and 3 rows. Invisible grid, broad genuinely transparent gutters. Each cluster is fully contained inside middle 70 percent of its own cell. Top down true orthographic diffuse albedo view, no perspective or directional lighting, no environment. These are sprawling irregular broken-up clusters covering roughly 1.5 to 3 meters in game, composed of many separated rubbish islands and transparent gaps, not a single item. Nine distinct compositions: 1 shredded dirty newspaper scraps and brown wrapping paper with plaster crumbs; 2 ripped flattened cardboard packaging, cigarette butts and dusty leaves; 3 many torn beige paper scraps, dirty tissue and small plaster chips; 4 smashed paper food wrappers, flattened cardboard scraps, dark grime flecks; 5 thin broken wood scraps with old newspaper fragments and cigarette ends; 6 crumpled dirty paper balls and scattered ripped cardboard fragments; 7 dead dry leaves, packaging shreds and plaster rubble crumbs; 8 long sprawling ripped packaging paper trail, small cardboard scraps and cigarette ends; 9 irregular broad scattered pile of stained paper fragments, a crushed plain cup, tiny plaster bits and leaves. All nine clusters differ in silhouette and arrangement. Understated 2004 Half-Life 2 Source engine hand authored game texture aesthetic for a grim Soviet residential entrance, desaturated grimy beige grey brown. No logos or legible text. Absolutely NO underlying concrete floor, NO grey slab, NO tile rectangles, NO colored backdrop, NO checkerboard drawn in, NO borders or grid. Only rubbish is visible over true transparent alpha background. Soften frayed dirty edges naturally, preserve holes between objects and generous gutters.",
+      "inspection": "Nine broad distinct messy rubbish clusters; varied papers, cardboard, leaves, cigarettes, plaster fragments. Gaps and gutters preserved.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "transparentPixels": 545581,
+        "translucentPixels": 1026209,
+        "opaquePixels": 726
+      }
+    },
+    {
+      "path": "Assets/Art/Environment/FloorDetails/FloorBlood.png",
+      "source": "/home/afterburner/.codex/generated_images/01a1515f-d487-7dc0-a463-81d6e6d3dbea/exec-6bba0b8e-1862-4f66-b331-5f3a85f658af.png",
+      "prompt": "Use case: stylized-concept. Asset type: transparent RGBA horror game floor blood decal atlas. Square image with EXACTLY NINE unique atmospheric non graphic dark old blood marks arranged in exactly equal thirds invisible grid, 3 rows and 3 columns. All patches centered in their own cells, fully confined inside middle 70 percent of cell and separated by wide completely transparent gutters. True top down orthographic flat diffuse albedo. Nine distinct compositions reading order: 1 broken trail of four faded bloody shoe sole fragments and scattered droplets; 2 long parallel dragging blood streaks, thin and interrupted; 3 irregular shallow old dried blood puddle broken into islands at edge; 4 arcing dragged heel smear with narrow tapering trails; 5 scattered droplets forming a loose diagonal trail and two partial sole prints; 6 broad rubbed handwipe-like streak cluster with finger-width fine lines but NO depicted hand; 7 narrow long interrupted blood scrape trail with droplets; 8 irregular roundish dried dark pool with multiple little satellite drops and feathered outline; 9 overlapping partial boot tread traces in dark dried blood with a scuffed wipe ending. Marks intended as 1.3 to 3.5 meter floor patches, readable but atmospheric. Muted old DARK MAROON and rust brown pigment, nearly black thicker centers, no vivid red, no glowing red. 2004 Half-Life 2 Source engine restrained hand authored decal art for grim Soviet apartment corridor horror. Transparent empty interiors between trails, gaps in wiped pigment, irregular soft natural edges fading to alpha zero. Only blood pigment marks on true transparent background, no pictured floor or concrete substrate, no material panels, no grey square base, no environment, no scene, no text, no borders, no grid, no watermark, no baked lighting or shadows. No person, no victim, no body part, no organs, no gore, no flesh, no wound. Genuinely transparent background, not a drawn checkerboard.",
+      "inspection": "Nine distinct dark dried blood marks, including footprint fragments, drag streaks, droplets, and old pools. No bodies or gore.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "transparentPixels": 854132,
+        "translucentPixels": 718289,
+        "opaquePixels": 95
+      }
+    }
+  ],
+  "processing": "Copied raw generated PNGs without image edits. Unity consumer slices UVs; use restrained alpha to blend translucent dusty patches into the existing floor.",
+  "inspection": "Nine distinct patches per atlas. Real alpha verified via metadata; irregular transparent boundaries. Scuffs regenerated as flat sparse linework; grime remains translucent dusty patches and uses restrained opacity."
+}

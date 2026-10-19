@@ -1,0 +1,8 @@
+{
+  "name": "FPLab.UI",
+  "rootNamespace": "FPLab.UI",
+  "references": [
+    "FPLab.Gameplay",
+    "UnityEngine.UI"
+  ]
+}

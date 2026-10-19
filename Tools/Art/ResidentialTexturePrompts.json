@@ -1,0 +1,70 @@
+{
+  "generator": "built-in image_gen",
+  "generatedOn": "2026-10-19",
+  "purpose": "Original residential Russian Soviet panel-block entrance textures: mostly intact ivory whitewash, light mint oil paint, terrazzo, whitewashed ceiling, upholstered apartment door, painted wood trim. Replaces the industrial/prison material direction. New generated originals; no Valve industrial-door texture references used.",
+  "assets": [
+    {
+      "asset": "Plaster_Albedo.png",
+      "path": "Assets/Art/Environment/ResidentialV2/Plaster_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true,
+      "prompt": "Use case: stylized-concept. Asset type: ORIGINAL raw unlit albedo texture for a residential Russian Soviet panel-block apartment entrance, occupied but scruffy 1980s–2000s building. 1024x1024 square. Restrained attractive Source 2004 game-material style; readable natural material forms and mild wear, not hyperreal photography or modern photogrammetry. Flat orthographic full-bleed material sheet, seamless on all four sides, suitable to repeat on geometry. Uniform useful midtone albedo, no baked darkness, highlights, lighting, cast shadows, AO, perspective, vignette, objects, text, borders, labels or contact sheet. Domestic building, NO prison, bunker, industrial facility, rust, fire damage, rubble, intense decay, cratered material, giant pervasive peeling, or abandoned apocalypse aesthetic. Subject: Old warm dirty ivory-white whitewashed upper-wall plaster. Approximately 85–90% intact offwhite paint with faint roller/trowel marks, a handful of small beige plaster repairs, a few fine hairline cracks and gently accumulated household scuff marks. Subtle cream-gray tonal variation, softly worn and mostly smooth. Entire sheet same upper-wall whitewash material, no green paint or horizontal band.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-78cc7d70-f90a-4276-a212-a144bcd12fa7.png"
+    },
+    {
+      "asset": "Paint_Albedo.png",
+      "path": "Assets/Art/Environment/ResidentialV2/Paint_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true,
+      "prompt": "Use case: stylized-concept. Asset type: ORIGINAL raw unlit albedo texture for a residential Russian Soviet panel-block apartment entrance, occupied but scruffy 1980s–2000s building. 1024x1024 square. Restrained attractive Source 2004 game-material style; readable natural material forms and mild wear, not hyperreal photography or modern photogrammetry. Flat orthographic full-bleed material sheet, seamless on all four sides, suitable to repeat on geometry. Uniform useful midtone albedo, no baked darkness, highlights, lighting, cast shadows, AO, perspective, vignette, objects, text, borders, labels or contact sheet. Domestic building, NO prison, bunker, industrial facility, rust, fire damage, rubble, intense decay, cratered material, giant pervasive peeling, or abandoned apocalypse aesthetic. Subject: Muted LIGHT sage-mint Soviet residential stairwell oil-painted plaster, mostly intact satin oil paint with very faint brush/roller strokes, localized small chips revealing offwhite plaster, and faint shoe scuffs. Soft dusty light green-gray color, NOT teal or dark saturated green. No hard horizontal band or unpainted section; paint covers whole square. Avoid chunky noisy cracked concrete; slight smooth glossy-paint material appearance expressed as albedo only, NO painted-in specular highlights.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-715bd73a-038a-4320-b2a4-4f303464faa2.png"
+    },
+    {
+      "asset": "Floor_Albedo.png",
+      "path": "Assets/Art/Environment/ResidentialV2/Floor_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true,
+      "prompt": "Use case: stylized-concept. Asset type: ORIGINAL raw unlit albedo texture for a residential Russian Soviet panel-block apartment entrance, occupied but scruffy 1980s–2000s building. 1024x1024 square. Restrained attractive Source 2004 game-material style; readable natural material forms and mild wear, not hyperreal photography or modern photogrammetry. Flat orthographic full-bleed material sheet, seamless on all four sides, suitable to repeat on geometry. Uniform useful midtone albedo, no baked darkness, highlights, lighting, cast shadows, AO, perspective, vignette, objects, text, borders, labels or contact sheet. Domestic building, NO prison, bunker, industrial facility, rust, fire damage, rubble, intense decay, cratered material, giant pervasive peeling, or abandoned apocalypse aesthetic. Subject: Gray-beige Soviet residential stairwell terrazzo concrete floor: a continuous smooth dull aggregate cement surface with fine white/gray stone flecks and restrained faint mop streaks. Some soft shoe scuffs and age discoloration, 90% intact. Small aggregate uniformly distributed; subtle softly variegated gray-beige background, not black asphalt or cracked stone. NO tile grid, NO grout, NO large polished marble patterns, NO footprints, NO cracks dominating surface.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-4577399f-d36c-40bc-a2aa-1141e83e5738.png"
+    },
+    {
+      "asset": "Ceiling_Albedo.png",
+      "path": "Assets/Art/Environment/ResidentialV2/Ceiling_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true,
+      "prompt": "Use case: stylized-concept. Asset type: ORIGINAL raw unlit albedo texture for a residential Russian Soviet panel-block apartment entrance, occupied but scruffy 1980s–2000s building. 1024x1024 square. Restrained attractive Source 2004 game-material style; readable natural material forms and mild wear, not hyperreal photography or modern photogrammetry. Flat orthographic full-bleed material sheet, seamless on all four sides, suitable to repeat on geometry. Uniform useful midtone albedo, no baked darkness, highlights, lighting, cast shadows, AO, perspective, vignette, objects, text, borders, labels or contact sheet. Domestic building, NO prison, bunker, industrial facility, rust, fire damage, rubble, intense decay, cratered material, giant pervasive peeling, or abandoned apocalypse aesthetic. Subject: Old OFF-WHITE whitewashed plaster ceiling in a residential Russian panel-block stairwell: mostly intact smooth pale warm gray-white paint, very faint light water stains, a few restrained thin cracks and old whitewash roller strokes, small diffuse patch repairs. No exposed concrete aggregate or formwork, no rebar, no huge peeling, no mold, no metal, no fixtures. Pale whitewashed domestic ceiling material all across canvas.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-f10aca1b-e29b-4528-b6a4-22d3d7a16e16.png"
+    },
+    {
+      "asset": "Door_Albedo.png",
+      "path": "Assets/Art/Environment/ResidentialV2/Door_Albedo.png",
+      "width": 887,
+      "height": 1774,
+      "tileable": false,
+      "prompt": "Use case: stylized-concept. Asset type: ORIGINAL raw unlit albedo texture for a residential Russian Soviet panel-block apartment entrance, occupied but scruffy 1980s–2000s building. 1024x2048 portrait. Restrained attractive Source 2004 game-material style; readable natural material forms and mild wear, not hyperreal photography or modern photogrammetry. Flat orthographic full-bleed material sheet, single slab texture suitable to fit exactly once on a door, no vertical tiling needed. Uniform useful midtone albedo, no baked darkness, highlights, lighting, cast shadows, AO, perspective, vignette, objects, text, borders, labels or contact sheet. Domestic building, NO prison, bunker, industrial facility, rust, fire damage, rubble, intense decay, cratered material, giant pervasive peeling, or abandoned apocalypse aesthetic. Subject: ONE plain old Soviet/Russian apartment entrance DOOR SLAB upholstered in brown leatherette / vinyl, filling the entire 1024x2048 portrait canvas edge to edge. Domestic 1980s lived-in apartment door with tasteful simple diagonal diamond stitching and sparse round upholstered buttons, only TWO large diamonds wide across the slab, about4–5 diamonds tall. Mostly intact worn brown vinyl with mild rubbed regions, soft believable fine leatherette grain. Straight-on flat material texture only. ONE single door slab, NO surrounding frame or wall, NO handle/knob/keyhole/number/labels/hinges, NO inset metal panels, rust, rivets, prison bars, bunker armor or steel. Brown leatherette albedo at uniform diffuse exposure. No frame-like border, no 3D perspective, no dramatic shadows or highlights. It should unmistakably be an ordinary old residential upholstered apartment door.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-031904d6-22db-43f3-9f01-51572d0c407d.png"
+    },
+    {
+      "asset": "Trim_Albedo.png",
+      "path": "Assets/Art/Environment/ResidentialV2/Trim_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true,
+      "prompt": "Use case: stylized-concept. Asset type: ORIGINAL raw unlit albedo texture for a residential Russian Soviet panel-block apartment entrance, occupied but scruffy 1980s–2000s building. 1024x1024 square. Restrained attractive Source 2004 game-material style; readable natural material forms and mild wear, not hyperreal photography or modern photogrammetry. Flat orthographic full-bleed material sheet, seamless on all four sides, suitable to repeat on geometry. Uniform useful midtone albedo, no baked darkness, highlights, lighting, cast shadows, AO, perspective, vignette, objects, text, borders, labels or contact sheet. Domestic building, NO prison, bunker, industrial facility, rust, fire damage, rubble, intense decay, cratered material, giant pervasive peeling, or abandoned apocalypse aesthetic. Subject: Old DARK BROWN painted WOOD for residential apartment door architrave and wooden handrail trim. Entire square is one uninterrupted wood material surface. Subtle straight lengthwise wood grain just visible under layers of brown paint, small localized thin paint chips and rubbed edges in irregular distribution, not rusty metal. Brown-chocolate gray warm color, readable midtones, no panels, frame outline, perspective, bevels, objects, borders or molding geometry. Seamlessly repeatable both axes.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-9f9fccab-da3e-4c1c-a6e1-0bf223775730.png"
+    },
+    {
+      "asset": "Glass_Albedo.png",
+      "path": "Assets/Art/Environment/ResidentialV2/Glass_Albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "tileable": true,
+      "prompt": "Use case: stylized-concept. Asset type: ORIGINAL game material RAW UNLIT ALBEDO texture, 1024x1024 square, seamless repeatable both axes. Subject: plain milky ivory-white stippled / fine-pebbled frosted opal glass for a domestic round Soviet stairwell ceiling/wall bulkhead lamp. This is ONLY the flat glass MATERIAL SWATCH, not a lamp object or circular shape. Entire square is evenly pale milky glass, very low contrast fine irregular tiny bumps, faint dusty speckling, gentle age warmth. Restrained Source 2004 game-material look. Full-bleed orthographic flat texture; uniform opaque mid-light albedo for later shader emission. Absolutely NO wire mesh, diamond lattice, ribs, window shapes, borders, frame, transparency, glow, light, bright center, highlights, shadows, vignette, perspective, labels, text, symbols, handprints or footprints. No rusty metal or surrounding objects. Attractive ordinary inhabited Russian apartment entrance household lighting material, not industrial/prison glass.",
+      "source": "/home/afterburner/.codex/generated_images/01a15146-fc82-7a41-a24e-ed4d697db6a1/exec-532a120c-908e-4287-a993-5108182aaa10.png"
+    }
+  ]
+}

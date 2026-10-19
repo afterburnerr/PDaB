@@ -1,0 +1,52 @@
+[
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_sound_misc_dir.vpk",
+    "sourceEntry": "sound/items/flashlight1.wav",
+    "asset": "Assets/Audio/HalfLife2/Flashlight/flashlight1.wav",
+    "bytes": 6188,
+    "crc32": "0a2c72a0",
+    "sha256": "4653beec13dbf6d28e7eb6b9ed374d2679a56814a5182d04b95fad1b0f5b5cf6",
+    "durationSeconds": 0.06839002267573696,
+    "sampleRate": 44100,
+    "channels": 1,
+    "sampleBits": 16,
+    "soundScript": "hl2/scripts/game_sounds_player.txt",
+    "soundEvents": [
+      "HL2Player.FlashLightOn",
+      "HL2Player.FlashLightOff"
+    ],
+    "scriptVolume": 0.8
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_textures_dir.vpk",
+    "sourceEntry": "materials/effects/flashlight_border.vtf",
+    "originalAsset": "Assets/Art/UI/HalfLife2/Flashlight/flashlight_border.vtf",
+    "bytes": 16615,
+    "crc32": "bf3bdb40",
+    "sha256": "e637532b68d5b9e48a9a1ae34b2ad51a1f54e24ae1c936a9867c1dea25579b0f",
+    "asset": "Assets/Art/UI/HalfLife2/Flashlight/flashlight_border.png",
+    "convertedSha256": "f1270b6ed3dcc43f07a2b1d7862d8a5e28c9c17a66b2e2aa8f99a983d9eacf71",
+    "width": 64,
+    "height": 64,
+    "originalFormat": "VTF7.3 BGR888, 7 mips",
+    "conversion": "Decode mip zero to lossless RGB PNG; preserve pixel order, RGB and no-alpha semantics",
+    "material": null,
+    "materialNote": "No flashlight VMT exists in the installed hl2 directory VPKs; cookie is a texture asset."
+  },
+  {
+    "sourceVpk": "/home/afterburner/.local/share/Steam/steamapps/common/Half-Life 2/hl2/hl2_textures_dir.vpk",
+    "sourceEntry": "materials/effects/flashlight001.vtf",
+    "originalAsset": "Assets/Art/UI/HalfLife2/Flashlight/flashlight001.vtf",
+    "bytes": 65727,
+    "crc32": "d48a574b",
+    "sha256": "775d3d81173a68375fe20089399b25c322015f38cda6c86cb308df9e1362a577",
+    "asset": "Assets/Art/UI/HalfLife2/Flashlight/flashlight001.png",
+    "convertedSha256": "ef97a18f0dfa7cb6c5e35d30c3e01951ebc1631156939caf19d0f4cf5c7450e5",
+    "width": 128,
+    "height": 128,
+    "originalFormat": "VTF7.1 BGR888, 8 mips",
+    "conversion": "Decode mip zero to lossless RGB PNG; preserve pixel order, RGB and no-alpha semantics",
+    "material": null,
+    "materialNote": "No flashlight VMT exists in the installed hl2 directory VPKs; cookie is a texture asset."
+  }
+]

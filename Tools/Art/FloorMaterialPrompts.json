@@ -1,0 +1,35 @@
+{
+  "generator": "built-in image_gen",
+  "reference": {
+    "path": "Assets/Art/Environment/ResidentialV2/Floor_Albedo.png",
+    "role": "palette, nominal brightness, wear-density reference only; generated material type deliberately changed"
+  },
+  "assets": [
+    {
+      "path": "Assets/Art/Environment/FloorSurfaces/FloorBoards.png",
+      "source": "/home/afterburner/.codex/generated_images/01a1517a-1869-78c2-9826-dd616ef0821e/exec-1d0dc1a2-ab55-41bd-b862-d1e0fe405812.png",
+      "prompt": "Use case: stylized-concept\nAsset type: seamless square opaque RGB game floor albedo texture for Unity, not a scene render.\nPrimary request: create a completely NEW MATERIAL: OLD WOOD FLOORBOARDS for a Soviet apartment-building corridor in a classic Source-engine 2004 visual style.\nInput image role: attached terrazzo image is ONLY a reference for subdued greige brown-grey color palette, nominal brightness, and weathering density. DO NOT preserve its terrazzo material or stone chips. Replace the surface completely with unmistakable wood boards.\nComposition: perfectly flat orthographic top-down edge-to-edge 2x2 metre texture patch. Around 10-12 long parallel boards across the image, each about 16-20 cm wide, all boards aligned vertically along image Y. Thin dark straight joints, a few staggered board-end joints. Fine pale wood grain, worn matte desaturated grey-brown wash finish, slight traces of old chipped paint, understated foot wear. Material is domestic worn wood, not luxurious parquet, not laminate.\nColor: muted grey-beige and dusty brown, very low saturation matching the attached reference brightness. No orange or yellow wood.\nConstraints: seamless tiling on all four edges, equal diffuse illumination, albedo only, no perspective, no camera angle, no light gradients, no baked directional shadows, no specular shine, no raised objects, no rubbish, no blood, no text, no borders, no watermark. Clear readable long plank structure at game distance. Square image.",
+      "coverageMetres": [
+        2,
+        2
+      ],
+      "material": "worn matte greige wooden boards",
+      "orientation": "long boards along texture Y"
+    },
+    {
+      "path": "Assets/Art/Environment/FloorSurfaces/FloorTiles.png",
+      "source": "/home/afterburner/.codex/generated_images/01a1517a-1869-78c2-9826-dd616ef0821e/exec-ac2125ff-b6e6-4e2a-97ea-32e0cdf7660c.png",
+      "prompt": "Use case: stylized-concept\nAsset type: square seamless opaque RGB albedo texture for a Unity floor material, not a scene render.\nPrimary request: create a completely NEW MATERIAL: OLD SMALL SQUARE CERAMIC/CEMENT FLOOR TILES in a Soviet residential entrance, classic Source-engine 2004 worn game texture look.\nInput image role: attached terrazzo image is ONLY a reference for the subdued greige, dirty olive-grey color palette, nominal brightness and weathering density. DO NOT preserve terrazzo or its stone-chip surface. Replace it completely with clearly visible square tiles.\nComposition: perfectly flat orthographic top-down edge-to-edge 2x2 metre patch with exactly 8 by 8 square tiles, each approximately 25 cm wide. Narrow dark grey grout lines in a regular orthogonal grid. Place edges halfway along outer grout channels so grid tiles seamlessly across all four borders. Subtle tile-to-tile dirty grey-beige/grey-olive differences, worn matte finish, fine scratches, small isolated chipped corners and age specks, modest everyday wear. Tile pattern must read at game distance, but not highly contrasting checkerboard. Simple domestic tiles, not luxury marble.\nPalette: desaturated mid-light greige and dirty olive grey, overall brightness compatible with supplied reference. No vivid colors, no orange.\nConstraints: square seamless repeating texture, flat equal diffuse illumination, albedo only, no perspective or camera angle, no raised geometry, no baked shadows or highlights, no directional light gradients, no furniture, no debris, no blood, no text, no borders, no watermark. Entire image filled with tile surface.",
+      "coverageMetres": [
+        2,
+        2
+      ],
+      "material": "worn matte greige ceramic/cement tiles",
+      "grid": [
+        8,
+        8
+      ]
+    }
+  ],
+  "validation": "Visually inspected both raw outputs. Wood grain/parallel boards and 8x8 tile grout structure clearly distinct from concrete. Raw PNG bytes preserved; no postprocessing. No Unity import, Play, tests or runtime verification performed by asset agent."
+}
